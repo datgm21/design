@@ -5,6 +5,8 @@
 
 # 1回目
 - [ガイダンス](https://drive.google.com/file/d/1tvOISbFwll-c7fmJ7qJVIciTp3ZknSEr/)
+  - [とあるツイート](https://twitter.com/toRisouP/status/1381522737265451009)
+  - [Jini. 子供を地獄かもしれない世界へ誘った理由](https://note.com/j1n1/n/n8ee2242cecc3)
 - [環境の準備](https://docs.google.com/document/d/16MW6maMYvt8m-60RM5wU_LzJ5r-3Hm0WTnxoBGDzxIA/)
   - Googleアカウント / Slack / Google Meet / GitHub / 作業用フォルダー
   - ツールについて
