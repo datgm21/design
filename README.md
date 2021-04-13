@@ -19,3 +19,5 @@
 - 演習：ミニゲームを考えてみよう
   - Googleドキュメント、スライド、ワークシートのいずれか
   - 共有URLをSlackの自分のチャンネルに書き込む
+- 演習：キータイプ練習
+  - 今日の結果を[こちら](https://docs.google.com/forms/d/e/1FAIpQLSdJ-8EnCFRQN9on10anfD2I3JQi9FExL7IOQ4QuerKPKm-BIQ/viewform?usp=sf_link)へ報告
