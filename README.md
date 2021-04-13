@@ -3,7 +3,7 @@
 - [Slack](https://datgm21.slack.com/)
 
 # 1回目
-- ガイダンス
+- [ガイダンス](https://drive.google.com/file/d/1tvOISbFwll-c7fmJ7qJVIciTp3ZknSEr/)
 - [環境の準備](https://docs.google.com/document/d/16MW6maMYvt8m-60RM5wU_LzJ5r-3Hm0WTnxoBGDzxIA/)
   - Googleアカウントの確認 / Googleサービスの利用
   - Slackの登録、設定、活動チャンネル(times_氏名)の作成
