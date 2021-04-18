@@ -3,6 +3,17 @@
 - [質問](https://meet.google.com/nfe-tjom-mtb)
 - [昨年度の講義資料](https://github.com/datgm20/design)
 
+# 参考URL
+## 企画
+- [Jesse Schell's ゲームデザインレンズデッキ](http://deck.artofgamedesign.com/#/?lang=jp)
+- [EIKIさん. ゴリラが人類を強制的にSTAY HOMEさせるゲーム](https://youtu.be/-qWwYVWgczA?t=6719)・・・アイディアの転がし方、発注、ペース、進め方
+- [tnkさん. 「斬新さ」から考えるゲーム開発](https://youtu.be/-qWwYVWgczA?t=3002)・・・プランナー的視点、斬新なアイディア
+
+
+# 2回目
+- [Jesse Schell's ゲームデザインレンズデッキ](http://deck.artofgamedesign.com/#/?lang=jp)
+
+
 # 1回目
 - [ガイダンス](https://drive.google.com/file/d/1tvOISbFwll-c7fmJ7qJVIciTp3ZknSEr/)
   - [とあるツイート](https://twitter.com/toRisouP/status/1381522737265451009)
