@@ -16,14 +16,17 @@
 ## 予定
 - 講義：[ゲームデザインの基礎](https://docs.google.com/document/d/1ItqVAv-e-dnThzUF1o-8xucq7l95gel6FF9-96kBkpo/)
 - [Jesse Schell's ゲームデザインレンズデッキ](http://deck.artofgamedesign.com/#/?lang=jp)のカードリストを眺める
-- [マミーさん. チーム「密会取り締まり委員会」の発表](https://youtu.be/-qWwYVWgczA?t=6093)・・・ブレストの例 / チーム開発について
 
 ## 演習：グループでアイディアを出し
 - 準備
   - [Slackに登録](https://docs.google.com/document/d/1Tu8rrbJDmAERo_ItkfcmadOinEFiTcuKmOq07ycH0G0/)
   - グループのチャンネルに参加
+- ブレストの前に
+  - [マミーさん. チーム「密会取り締まり委員会」の発表](https://youtu.be/-qWwYVWgczA?t=6093)・・・ブレストの例 / チーム開発について
+  - [EIKIさん. ゴリラが人類を強制的にSTAY HOMEさせるゲーム](https://youtu.be/-qWwYVWgczA?t=6719)・・・アイディアの転がし方、発注、ペース、進め方
+  - [tnkさん. 「斬新さ」から考えるゲーム開発](https://youtu.be/-qWwYVWgczA?t=3002)・・・プランナー的視点、斬新なアイディア
 - ブレスト
-  - ドキュメントにあったカヤックの方針を参考に、Slackにアイディアを書き込んでいく
+  - ドキュメントにあったカヤックの方針を参考にSlackにアイディアを書き込んでいく
 - 企画をまとめる
   - ブレストで出た方向性を土台に以下についてグループでまとめる
     - ゲームデザインレンズデッキの1～5を参考に、方向を決める
