@@ -13,9 +13,42 @@
 
 
 # 2回目
-- [ゲームデザイン理論の基礎](https://docs.google.com/document/d/1kAfX8-_TyGLNSCaSC4t5R4VafvQYte-Zx-p-pQlB-Tg/)
+## 予定
+- 講義：[ゲームデザインの基礎](https://docs.google.com/document/d/1kAfX8-_TyGLNSCaSC4t5R4VafvQYte-Zx-p-pQlB-Tg/)
 - [マミーさん. チーム「密会取り締まり委員会」の発表](https://youtu.be/-qWwYVWgczA?t=6093)・・・ブレストの例 / チーム開発について
 - [Jesse Schell's ゲームデザインレンズデッキ](http://deck.artofgamedesign.com/#/?lang=jp)
+
+## 演習：グループでアイディアを出してサムネイルと概要を発表
+- [Slackに登録](https://docs.google.com/document/d/1Tu8rrbJDmAERo_ItkfcmadOinEFiTcuKmOq07ycH0G0/)
+- グループのチャンネルに参加
+
+## 演習：ミニゲームを考えてみよう
+
+
+- Googleスライドの使い方
+  - gmail を開いて、右上のGoogleアプリをクリックして、Google Driveを選択
+  - 左上のスライド名の部分をクリックして、「ミニゲームを考える：氏名」に変更(例：ミニゲームを考える：田中)
+  - レイアウトボタンをクリックして、タイトルと本文を選択
+    - 手書きのものは、スマホで撮影して、学校で作成したgmailに送信 or Googleフォト
+  - サムネイルを描く
+  - 操作方法：unityroomを参考に、キーやマウスなど、どうやって動かすのかを書く
+    - 選択肢に対応するもの
+  - ルール
+    - 何をするのか
+    - 何をしたらいけないのか
+  - 簡単な世界観など(あれば)
+    - プレイヤーは、何を制限されるのか？　を考えるとまとめやすい
+
+参考： https://docs.google.com/drawings/d/1mGXGcm8mcXUBmP3rqVQheMDZLl3jd86qapLr7NChwjU/
+参考： nekogeek. カジュアルゲームの最新ゲームを50本遊んで、企画の方向を考えよう
+
+    ArtStation
+
+画像取り込み
+
+    CamScan Android / iOS
+
+
 
 
 # 1回目
