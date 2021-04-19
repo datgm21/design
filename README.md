@@ -14,41 +14,35 @@
 
 # 2回目
 ## 予定
-- 講義：[ゲームデザインの基礎](https://docs.google.com/document/d/1kAfX8-_TyGLNSCaSC4t5R4VafvQYte-Zx-p-pQlB-Tg/)
+- 講義：[ゲームデザインの基礎](https://docs.google.com/document/d/1ItqVAv-e-dnThzUF1o-8xucq7l95gel6FF9-96kBkpo/)
+- [Jesse Schell's ゲームデザインレンズデッキ](http://deck.artofgamedesign.com/#/?lang=jp)のカードリストを眺める
 - [マミーさん. チーム「密会取り締まり委員会」の発表](https://youtu.be/-qWwYVWgczA?t=6093)・・・ブレストの例 / チーム開発について
-- [Jesse Schell's ゲームデザインレンズデッキ](http://deck.artofgamedesign.com/#/?lang=jp)
 
-## 演習：グループでアイディアを出してサムネイルと概要を発表
-- [Slackに登録](https://docs.google.com/document/d/1Tu8rrbJDmAERo_ItkfcmadOinEFiTcuKmOq07ycH0G0/)
-- グループのチャンネルに参加
-
-## 演習：ミニゲームを考えてみよう
-
-
-- Googleスライドの使い方
-  - gmail を開いて、右上のGoogleアプリをクリックして、Google Driveを選択
-  - 左上のスライド名の部分をクリックして、「ミニゲームを考える：氏名」に変更(例：ミニゲームを考える：田中)
-  - レイアウトボタンをクリックして、タイトルと本文を選択
-    - 手書きのものは、スマホで撮影して、学校で作成したgmailに送信 or Googleフォト
-  - サムネイルを描く
-  - 操作方法：unityroomを参考に、キーやマウスなど、どうやって動かすのかを書く
-    - 選択肢に対応するもの
-  - ルール
-    - 何をするのか
-    - 何をしたらいけないのか
-  - 簡単な世界観など(あれば)
-    - プレイヤーは、何を制限されるのか？　を考えるとまとめやすい
-
-参考： https://docs.google.com/drawings/d/1mGXGcm8mcXUBmP3rqVQheMDZLl3jd86qapLr7NChwjU/
-参考： nekogeek. カジュアルゲームの最新ゲームを50本遊んで、企画の方向を考えよう
-
-    ArtStation
-
-画像取り込み
-
-    CamScan Android / iOS
-
-
+## 演習：グループでアイディアを出し
+- 準備
+  - [Slackに登録](https://docs.google.com/document/d/1Tu8rrbJDmAERo_ItkfcmadOinEFiTcuKmOq07ycH0G0/)
+  - グループのチャンネルに参加
+- ブレスト
+  - ドキュメントにあったカヤックの方針を参考に、Slackにアイディアを書き込んでいく
+- 企画をまとめる
+  - ブレストで出た方向性を土台に以下についてグループでまとめる
+    - ゲームデザインレンズデッキの1～5を参考に、方向を決める
+    - 手書き、PowerPoint、Photoshopなど何を使ってもよいので、ゲームの画面案を描く
+      - 最初はそれぞれ別々に描いて、方向性が合っているかを確認してみるとよい
+      - 参考： [ArtStation. Gameplay & Level Design](https://www.artstation.com/channels/gameplay_and_level_design?sort_by=trending)
+    - 画面の案をとりまとめて、一つの画面案にまとめる
+    - 画面案をSlackのグループチャンネルにドラッグ&ドロップで貼り付ける(手書きの場合はスマホで写真をとり、GmailやGoogleフォトにアップして、PCで取り出す)
+  - 以下の項目をSlackのグループチャンネルに書く
+    - コアステートメント
+    - ゲームのコードネーム(仮のタイトル)
+    - 具体的な操作方法
+    - ルール(何をやるのか。あるいは、どうなったらダメなのか。など)
+    - 世界観(いつ、どこ、だれ。ハイパーカジュアル系など、これがないものもあるので、ない時はなしでよい)
+  - 考えるヒント
+    - プレイヤーが「これは面白い！」と感じる瞬間を決める
+    - そのように感じる理由を考える
+    - その理由を最大に強調するための操作方法、ルール、ステージ、設定などを考える
+- 参考： nekogeek. カジュアルゲームの最新ゲームを50本遊んで、企画の方向を考えよう
 
 
 # 1回目
