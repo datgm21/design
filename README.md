@@ -13,6 +13,9 @@
 
 
 # 2回目
+## 話題
+- [集英社ゲームクリエイターズCAMP](https://game-creators.camp/)
+
 ## 予定
 - 講義：[ゲームデザインの基礎](https://docs.google.com/document/d/1ItqVAv-e-dnThzUF1o-8xucq7l95gel6FF9-96kBkpo/)
 - [Jesse Schell's ゲームデザインレンズデッキ](http://deck.artofgamedesign.com/#/?lang=jp)のカードリストを眺める
