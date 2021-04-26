@@ -15,6 +15,7 @@
 # 2回目
 ## 話題
 - [集英社ゲームクリエイターズCAMP](https://game-creators.camp/)
+- [1週間ゲームジャム. テーマ「2」 5/2(日)20:00公開開始](https://unityroom.com/unity1weeks)
 
 ## 予定
 - 講義：[ゲームデザインの基礎](https://docs.google.com/document/d/1ItqVAv-e-dnThzUF1o-8xucq7l95gel6FF9-96kBkpo/)
@@ -30,6 +31,7 @@
   - [tnkさん. 「斬新さ」から考えるゲーム開発](https://youtu.be/-qWwYVWgczA?t=3002)・・・プランナー的視点、斬新なアイディア
 - ブレスト
   - [面白法人カヤック. 始まりも終わりもブレスト](https://www.kayac.com/vision/brainstorm)
+  - テーマ「2」
 - 企画をまとめる
   - ブレストで出た方向性を土台に以下についてグループでまとめる
     - ゲームデザインレンズデッキの1～5を参考に、方向を決める
