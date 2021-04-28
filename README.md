@@ -24,7 +24,7 @@
 - 講義：[ゲームデザインの基礎](https://docs.google.com/document/d/1ItqVAv-e-dnThzUF1o-8xucq7l95gel6FF9-96kBkpo/)
 - [Jesse Schell's ゲームデザインレンズデッキ](http://deck.artofgamedesign.com/#/?lang=jp)のカードリストを眺める
 
-## 演習２：ブレストで出た方向性を土台に以下についてグループでまとめる
+## 演習２：ブレストで出た方向性を土台に以下についてまとめる
 - [ブレスト結果](https://docs.google.com/spreadsheets/d/16dN31zI6sNFDMfeY0mZebofRX8BSpbv6eQbpZ7Q4Ed8/)
   - 上のリンクを右クリックして新しいタブで開く
   - ファイルメニューから、コピーを作成 を選択
