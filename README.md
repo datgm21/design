@@ -56,7 +56,7 @@
   - そのように感じる理由を考える
   - その理由を最大に強調するための操作方法、ルール、ステージ、設定などを考える
 - 参考： [nekogeek. カジュアルゲームの最新ゲームを50本遊んで、企画の方向を考えよう](https://nekogeek.jp/play-casual-games-a-lot/)
-
+  - [作例](https://docs.google.com/presentation/d/1pU7q1oWEkPfATbvy5jhatJkDWsByfO3wpBh1KIKShrk/)
 
 ## 演習１：グループでアイディアを出し
 - 準備
