@@ -24,7 +24,25 @@
 - 講義：[ゲームデザインの基礎](https://docs.google.com/document/d/1ItqVAv-e-dnThzUF1o-8xucq7l95gel6FF9-96kBkpo/)
 - [Jesse Schell's ゲームデザインレンズデッキ](http://deck.artofgamedesign.com/#/?lang=jp)のカードリストを眺める
 
-## 演習：グループでアイディアを出し
+## 演習２：
+- [ブレスト結果](https://docs.google.com/spreadsheets/d/16dN31zI6sNFDMfeY0mZebofRX8BSpbv6eQbpZ7Q4Ed8/)
+  - 上のリンクを右クリックして新しいタブで開く
+  - ファイルメニューから、コピーを作成 を選択
+  - 適当な場所を選択して保存
+  - フォームの下のタブから自分のグループを選択
+  - B列を選択
+  - ▼アイコンをクリックして、A-Zでシートを並び替え　を選択
+  - 上から3つのキーワードをテーマにして、企画書を作成する
+- https://drive.google.com を開く
+  - 左上の新規ボタンを押す
+  - Googleスライドをクリック
+  - 無題のスライド の部分をクリックして、「企画演習：氏名」と入力。氏名の部分は自分の名前
+  - 先ほど選択したキーワードをスライドに貼り付ける
+  - 演習にあるような項目を記載していく
+  - 手書きか、図形で画面のサムネイルを作成
+
+
+## 演習１：グループでアイディアを出し
 - 準備
   - [Slackに登録](https://docs.google.com/document/d/1Tu8rrbJDmAERo_ItkfcmadOinEFiTcuKmOq07ycH0G0/)
   - グループのチャンネルに参加
