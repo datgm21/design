@@ -4,6 +4,7 @@
 - [シラバス](https://drive.google.com/file/d/1dIiRItttkABdvisRGQuZwYjKLJt8mgSJ/)
 - [質問](https://meet.google.com/nfe-tjom-mtb)
 - [昨年度の講義資料](https://github.com/datgm20/design)
+- [Slack](https://datgm21.slack.com)
 
 # 参考URL
 ## 企画
