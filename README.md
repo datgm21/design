@@ -14,6 +14,10 @@
 - [tnkさん. 「斬新さ」から考えるゲーム開発](https://youtu.be/-qWwYVWgczA?t=3002)・・・プランナー的視点、斬新なアイディア
 - [#TokyoIndies on Twitter](https://twitter.com/hashtag/TokyoIndies?src=hashtag_click&f=live)
 
+# 3回目(5/12)
+## 予定
+- [ゲームメカニクス](https://docs.google.com/document/d/1U0DTbG__KQNiOBQCGeCm2Ty7IiBCMrEJgIMEMfH3MZk/)
+
 
 # 2回目
 ## 話題
