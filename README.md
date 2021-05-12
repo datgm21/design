@@ -1,5 +1,3 @@
-[Slack招待](https://join.slack.com/t/datgm21/shared_invite/zt-owulucnp-hIm58XiI7fsMyJWPSq8zzw)
-
 # 2021年度生 ゲームデザイン実習
 - [シラバス](https://drive.google.com/file/d/1dIiRItttkABdvisRGQuZwYjKLJt8mgSJ/)
 - [質問](https://meet.google.com/nfe-tjom-mtb)
