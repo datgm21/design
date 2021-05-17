@@ -12,8 +12,28 @@
 - [tnkさん. 「斬新さ」から考えるゲーム開発](https://youtu.be/-qWwYVWgczA?t=3002)・・・プランナー的視点、斬新なアイディア
 - [#TokyoIndies on Twitter](https://twitter.com/hashtag/TokyoIndies?src=hashtag_click&f=live)
 
-# 3回目(5/12)
+# 4回目(5/19)
 ## 予定
+- レイアウト [FOTORIA. 三分割法で写真の構図をバッチリ決定！イラストで撮影方法を解決](https://fotoria.net/ja/blog/bc/photo-shoot-techniques/sc/composition/ar/rule-of-thirds/)
+- [色とUIのデザイン](https://am1.jp/dat/design/design4-color.pdf)
+  - [図](https://am1.jp/dat/design/design4-color-fig.pdf)
+
+## 演習
+- モデルの画面を選ぶ
+- Unityでレイアウト作成
+  - アスペクト比を決める
+  - ライト設定
+  - 背景色
+  - プリミティブの作成
+  - マテリアルの作成
+  - カメラの設定
+  - 文字表示-TextMeshPro
+  - 親子階層
+- できたらスクリーンショットを撮影してSlackに貼り付け
+
+
+# 3回目(5/12)
+## 内容
 - [ゲームメカニクス](https://docs.google.com/document/d/1U0DTbG__KQNiOBQCGeCm2Ty7IiBCMrEJgIMEMfH3MZk/)
 
 
@@ -22,7 +42,7 @@
 - [集英社ゲームクリエイターズCAMP](https://game-creators.camp/)
 - [1週間ゲームジャム. テーマ「2」 5/2(日)20:00公開開始](https://unityroom.com/unity1weeks)
 
-## 予定
+## 内容
 - 講義：[ゲームデザインの基礎](https://docs.google.com/document/d/1ItqVAv-e-dnThzUF1o-8xucq7l95gel6FF9-96kBkpo/)
 - [Jesse Schell's ゲームデザインレンズデッキ](http://deck.artofgamedesign.com/#/?lang=jp)のカードリストを眺める
 
