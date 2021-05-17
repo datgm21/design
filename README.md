@@ -18,8 +18,9 @@
 - [色とUIのデザイン](https://am1.jp/dat/design/design4-color.pdf)
   - [図](https://am1.jp/dat/design/design4-color-fig.pdf)
 
-## 演習
-- モデルの画面を選ぶ
+## 演習　球体や立方体で面白そうなハイパーカジュアルゲームの画面を作る
+- スマホやPCでPlayストアやAppストアを開いて、モデルにしたいゲームを選ぶ
+  - ゲームの提供元、タイトル、URLを調べてSlackに書き込む
 - Unityでレイアウト作成
   - アスペクト比を決める
   - ライト設定
