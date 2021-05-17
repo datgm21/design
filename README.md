@@ -21,7 +21,7 @@
 ## 演習　球体や立方体で面白そうなハイパーカジュアルゲームの画面を作る
 - スマホやPCでPlayストアやAppストアを開いて、モデルにしたいゲームを選ぶ
   - ゲームの提供元、タイトル、URLを調べてSlackに書き込む
-- Unityでレイアウト作成
+- [Unityでレイアウト作成](https://docs.google.com/document/d/17WatyZDngqasXH0k6hKGg8V-_9kEqqOViAhxmiuofhI/)
   - アスペクト比を決める
   - ライト設定
   - 背景色
