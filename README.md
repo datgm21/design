@@ -13,6 +13,10 @@
 - [#TokyoIndies on Twitter](https://twitter.com/hashtag/TokyoIndies?src=hashtag_click&f=live)
 
 # 4回目(5/19)
+## Slackのチャンネル作成
+- 以下のものは、Slackに自分の活動報告用のチャンネルを作成すること
+  - コブネ、シミズ、シマダ、タサキ
+
 ## 予定
 - レイアウト [FOTORIA. 三分割法で写真の構図をバッチリ決定！イラストで撮影方法を解決](https://fotoria.net/ja/blog/bc/photo-shoot-techniques/sc/composition/ar/rule-of-thirds/)
 - [色とUIのデザイン](https://am1.jp/dat/design/design4-color.pdf)
