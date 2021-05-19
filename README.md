@@ -21,6 +21,7 @@
 - レイアウト [FOTORIA. 三分割法で写真の構図をバッチリ決定！イラストで撮影方法を解決](https://fotoria.net/ja/blog/bc/photo-shoot-techniques/sc/composition/ar/rule-of-thirds/)
 - [色とUIのデザイン](https://am1.jp/dat/design/design4-color.pdf)
   - [図](https://am1.jp/dat/design/design4-color-fig.pdf)
+  - [作業メモ](https://docs.google.com/document/d/1a_rWW82Q9g_PDXjtlKHyY_NooInNXocj35WYJJ-JyT4/)
 
 ## 演習　球体や立方体でハイパーカジュアルゲームなどの描きこまれていないオブジェクトで構成された画面を作る
 - 先週提出された企画案をベースにすると良い
