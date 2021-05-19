@@ -22,9 +22,9 @@
 - [色とUIのデザイン](https://am1.jp/dat/design/design4-color.pdf)
   - [図](https://am1.jp/dat/design/design4-color-fig.pdf)
 
-## 演習　球体や立方体で面白そうなハイパーカジュアルゲームの画面を作る
-- スマホやPCでPlayストアやAppストアを開いて、モデルにしたいゲームを選ぶ
-  - ゲームの提供元、タイトル、URLを調べてSlackに書き込む
+## 演習　球体や立方体でハイパーカジュアルゲームなどの描きこまれていないオブジェクトで構成された画面を作る
+- 先週提出された企画案をベースにすると良い
+  - 先週の案が描きこまれたキャラものだったり、ない場合は、スマホやPCでPlayストアやAppストアを開いて、モデルにしたいゲームを選ぶ。その際、ゲームの提供元、タイトル、URLを調べてSlackに書き込む
 - [Unityでレイアウト作成](https://docs.google.com/document/d/17WatyZDngqasXH0k6hKGg8V-_9kEqqOViAhxmiuofhI/)
   - アスペクト比を決める
   - ライト設定
