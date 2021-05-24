@@ -12,12 +12,66 @@
 - [tnkさん. 「斬新さ」から考えるゲーム開発](https://youtu.be/-qWwYVWgczA?t=3002)・・・プランナー的視点、斬新なアイディア
 - [#TokyoIndies on Twitter](https://twitter.com/hashtag/TokyoIndies?src=hashtag_click&f=live)
 
-# 4回目(5/19)
-## Slackのチャンネル作成
-- 以下のものは、Slackに自分の活動報告用のチャンネルを作成すること
-  - コブネ、シマダ
-
+# 5回目(5/26)
 ## 予定
+### 前回の振り返り
+- レイアウトと色
+- Slackの企画を流し見
+
+### 形を整える
+- [形のデザイン](https://am1.jp/dat/design/design3-shape.pdf)
+- [Unityの新規プロジェクトの作成とGitHubへのパブリッシュ](https://docs.google.com/document/d/1xV3s3uG9jT0wCEfQEid83Pc5nBC7pLg8HZg0V8UyJI4/)
+  - 前回のプロジェクトを登録
+  - [こちら]() にリポジトリーのURLを登録
+- [ProBuilderでシンプルな形を作る](https://docs.google.com/document/d/129pS_YQPJq3srmxEqCDMUX8a9aqGGnTy0OzaEPsajXU/)
+
+
+### フォント。UI
+- [文字のデザイン](https://am1.jp/dat/design/design5-font.pdf)
+  - [図](https://am1.jp/dat/design/design5-font-fig.pdf)
+
+## 演習
+前回の演習で作成したモック画面のオブジェクトの調整とUIを追加して画面をまとめる。
+
+### レイアウトのヒント
+- [Anna Mészáros. デザイナーではない人がデザインする上で大切な4つの基本原則](https://gigazine.net/news/20190518-fundamental-design-principles/)
+- [個人開発のUI設計術](https://crieit.net/posts/UI)
+- [PHOTOSHOPVIP. 現役デザイナーが教える！完璧な書体を決める10個の黄金ルールまとめ](http://photoshopvip.net/105840?utm_content=bufferf79a8&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+  - プロジェクトのテーマを明確化して、それに合うものを選ぶ
+  - フォントのフォルム（太さ、丸み、縦横比)はある程度揃えつつ、違いがあるもの
+  - 1つのプロジェクトで、タイトルと本文、あるいはタイトルとUIと本文といった、2種類以上のフォントを選ぶ
+
+### 作業
+- [coliss. 2021年用、日本語のフリーフォント477種類のまとめ -商用サイトだけでなく紙や同人誌などの利用も明記](https://coliss.com/articles/freebies/japanese-free-fonts.html)
+  - タイトル用と本文用の2つのフォントを見つける。**URLをGmailの下書きやGitHubのREADME.mdに記録しておく**
+- [UnityのUI基礎](https://docs.google.com/document/d/1oUDdWBGk2XUjAyt7RLHL2a1shBwrZp-ghrOb4wzGddk/)
+  - [TextMeshProの使い方](https://docs.google.com/document/d/1XIBCeH27Os43a1epTxYArBBaRK8iTLLIgwG0m4FrUTA/)
+  - [TextMeshPro向け　ASCIIコード＋JIS第1水準の文字](http://am1tanaka.hatenablog.com/entry/2019/10/14/183408)
+
+### キーワード
+- 抽象化
+- 記号
+  - アイコン
+    - 対象の形を抽象化した記号
+  - インデックス
+    - 対象を連想させる記号
+  - シンボル
+    - ！や？など、共通認識がある記号
+- モノグラム
+- 点、線、面
+- 幾何学形態の利用
+  - 図形間の距離、大きさ
+  - 図形の形状、配置
+  - 黄金比、白銀比
+- 図と地、ゲシュタルト心理学、プレグナンツの法則
+- 錯視
+
+### 提出
+- 完成したら、GitHub Desktopでコミットして、Publishすれば提出完了
+
+
+# 4回目(5/19)
+## 内容
 - レイアウト [FOTORIA. 三分割法で写真の構図をバッチリ決定！イラストで撮影方法を解決](https://fotoria.net/ja/blog/bc/photo-shoot-techniques/sc/composition/ar/rule-of-thirds/)
 - [色とUIのデザイン](https://am1.jp/dat/design/design4-color.pdf)
   - [図](https://am1.jp/dat/design/design4-color-fig.pdf)
