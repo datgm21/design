@@ -13,6 +13,10 @@
 - [#TokyoIndies on Twitter](https://twitter.com/hashtag/TokyoIndies?src=hashtag_click&f=live)
 
 # 5回目(5/26)
+
+## 話題
+- [Gotanda.unity #18 sponsored by ワンダープラネット株式会社](https://meetup.unity3d.jp/jp/events/1302)
+
 ## 予定
 ### 前回の振り返り
 - レイアウトと色
