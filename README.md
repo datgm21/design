@@ -27,7 +27,7 @@
 - [形のデザイン](https://am1.jp/dat/design/design3-shape.pdf)
 - [Unityの新規プロジェクトの作成とGitHubへのパブリッシュ](https://docs.google.com/document/d/1xV3s3uG9jT0wCEfQEid83Pc5nBC7pLg8HZg0V8UyJI4/)
   - 前回のプロジェクトを登録
-  - [こちら]() にリポジトリーのURLを登録
+  - [こちら](https://docs.google.com/forms/d/e/1FAIpQLScc9scLVvYA8nCuFTSHURvQtOBTEZL2bilB6GWgb78jMYkgFA/viewform?usp=sf_link) にリポジトリーのURLを登録
 - [ProBuilderでシンプルな形を作る](https://docs.google.com/document/d/129pS_YQPJq3srmxEqCDMUX8a9aqGGnTy0OzaEPsajXU/)
 
 
