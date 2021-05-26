@@ -12,25 +12,9 @@
 - [tnkさん. 「斬新さ」から考えるゲーム開発](https://youtu.be/-qWwYVWgczA?t=3002)・・・プランナー的視点、斬新なアイディア
 - [#TokyoIndies on Twitter](https://twitter.com/hashtag/TokyoIndies?src=hashtag_click&f=live)
 
-# 5回目(5/26)
-
-## 話題
-- [Gotanda.unity #18 sponsored by ワンダープラネット株式会社](https://meetup.unity3d.jp/jp/events/1302)
+# 6回目
 
 ## 予定
-### 前回の振り返り
-- レイアウトと色
-- Slackの企画を流し見
-
-### 形を整える
-- [手順](https://docs.google.com/document/d/1-stU_T0KyyxKqNC-rBmSxjMAEWN9zsHpweHtlhiI35Q/)
-- [形のデザイン](https://am1.jp/dat/design/design3-shape.pdf)
-- [Unityの新規プロジェクトの作成とGitHubへのパブリッシュ](https://github.com/datgm20/gp1/blob/master/github-unity.md)
-  - 前回のプロジェクトを登録
-  - [こちら](https://docs.google.com/forms/d/e/1FAIpQLScc9scLVvYA8nCuFTSHURvQtOBTEZL2bilB6GWgb78jMYkgFA/viewform?usp=sf_link) にリポジトリーのURLを登録
-- [ProBuilderでシンプルな形を作る](https://docs.google.com/document/d/129pS_YQPJq3srmxEqCDMUX8a9aqGGnTy0OzaEPsajXU/)
-
-
 ### フォント。UI
 - [文字のデザイン](https://am1.jp/dat/design/design5-font.pdf)
   - [図](https://am1.jp/dat/design/design5-font-fig.pdf)
@@ -73,6 +57,26 @@
 
 ### 提出
 - 完成したら、GitHub Desktopでコミットして、Publishすれば提出完了
+
+
+
+# 5回目(5/26)
+
+## 話題
+- [Gotanda.unity #18 sponsored by ワンダープラネット株式会社](https://meetup.unity3d.jp/jp/events/1302)
+
+## 内容
+### 前回の振り返り
+- レイアウトと色
+- Slackの企画を流し見
+
+### 形を整える
+- [手順](https://docs.google.com/document/d/1-stU_T0KyyxKqNC-rBmSxjMAEWN9zsHpweHtlhiI35Q/)
+- [形のデザイン](https://am1.jp/dat/design/design3-shape.pdf)
+- [Unityの新規プロジェクトの作成とGitHubへのパブリッシュ](https://github.com/datgm20/gp1/blob/master/github-unity.md)
+  - 前回のプロジェクトを登録
+  - [こちら](https://docs.google.com/forms/d/e/1FAIpQLScc9scLVvYA8nCuFTSHURvQtOBTEZL2bilB6GWgb78jMYkgFA/viewform?usp=sf_link) にリポジトリーのURLを登録
+- [ProBuilderでシンプルな形を作る](https://docs.google.com/document/d/129pS_YQPJq3srmxEqCDMUX8a9aqGGnTy0OzaEPsajXU/)
 
 
 # 4回目(5/19)
