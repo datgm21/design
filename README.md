@@ -19,6 +19,7 @@
 
 ## 予定
 ### 前回の振り返り
+- [手順](https://docs.google.com/document/d/1-stU_T0KyyxKqNC-rBmSxjMAEWN9zsHpweHtlhiI35Q/)
 - レイアウトと色
 - Slackの企画を流し見
 
