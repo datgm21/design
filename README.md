@@ -19,11 +19,11 @@
 
 ## 予定
 ### 前回の振り返り
-- [手順](https://docs.google.com/document/d/1-stU_T0KyyxKqNC-rBmSxjMAEWN9zsHpweHtlhiI35Q/)
 - レイアウトと色
 - Slackの企画を流し見
 
 ### 形を整える
+- [手順](https://docs.google.com/document/d/1-stU_T0KyyxKqNC-rBmSxjMAEWN9zsHpweHtlhiI35Q/)
 - [形のデザイン](https://am1.jp/dat/design/design3-shape.pdf)
 - [Unityの新規プロジェクトの作成とGitHubへのパブリッシュ](https://docs.google.com/document/d/1xV3s3uG9jT0wCEfQEid83Pc5nBC7pLg8HZg0V8UyJI4/)
   - 前回のプロジェクトを登録
