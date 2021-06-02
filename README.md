@@ -58,6 +58,8 @@
 ### 提出
 - 完成したら、GitHub Desktopでコミットして、Publishすれば提出完了
 
+### 時間が余ったら
+- [写真のデザインとライティング・ポストプロセッシング](https://docs.google.com/document/d/1PhYwUOJd5xHd2JtDEFSgeMRXTd7xlZ3Nv3ANUAR9rn0/)
 
 
 # 5回目(5/26)
