@@ -20,7 +20,9 @@
   - [図](https://am1.jp/dat/design/design5-font-fig.pdf)
 
 ## 演習
-前回の演習で作成したモック画面のオブジェクトの調整とUIを追加して画面をまとめる。
+- 前回の演習で作成したモック画面のオブジェクトの調整とUIを追加して画面をまとめる
+- [第3回](https://docs.google.com/document/d/1U0DTbG__KQNiOBQCGeCm2Ty7IiBCMrEJgIMEMfH3MZk/)の演習で、Googleスライドで作成した企画に、現在作成しているUnityの画面を貼り付けて、タイトル、操作方法、ルールなどを記入して、企画書をバージョンアップさせる
+- https://drive.google.com を開いて、Googleアカウントでログインして、3回目に作成したGoogleスライドを開いて追記する
 
 ### レイアウトのヒント
 - [Anna Mészáros. デザイナーではない人がデザインする上で大切な4つの基本原則](https://gigazine.net/news/20190518-fundamental-design-principles/)
