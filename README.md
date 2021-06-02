@@ -31,6 +31,7 @@
   - 1つのプロジェクトで、タイトルと本文、あるいはタイトルとUIと本文といった、2種類以上のフォントを選ぶ
 
 ### 作業
+- [作業メモ](https://docs.google.com/document/d/17JeqgPwlUDYiSMXUpmc9umw6ip8CC536H8jKA6yt5O4/)
 - [coliss. 2021年用、日本語のフリーフォント477種類のまとめ -商用サイトだけでなく紙や同人誌などの利用も明記](https://coliss.com/articles/freebies/japanese-free-fonts.html)
   - タイトル用と本文用の2つのフォントを見つける。**URLをGmailの下書きやGitHubのREADME.mdに記録しておく**
 - [UnityのUI基礎](https://docs.google.com/document/d/1oUDdWBGk2XUjAyt7RLHL2a1shBwrZp-ghrOb4wzGddk/)
