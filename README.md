@@ -61,7 +61,9 @@
 - 錯視
 
 ### 提出
-- 完成したら、GitHub Desktopでコミットして、Publishすれば提出完了
+- Googleスライドを共有済みなら更新したら自動的に提出になる
+- 3回目にスライドを未提出の場合は、[こちら](https://docs.google.com/forms/d/e/1FAIpQLScc9scLVvYA8nCuFTSHURvQtOBTEZL2bilB6GWgb78jMYkgFA/viewform?usp=sf_link) に共有URLを登録
+
 
 ### 時間が余ったら
 - [写真のデザインとライティング・ポストプロセッシング](https://docs.google.com/document/d/1PhYwUOJd5xHd2JtDEFSgeMRXTd7xlZ3Nv3ANUAR9rn0/)
