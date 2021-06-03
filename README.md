@@ -12,9 +12,57 @@
 - [tnkさん. 「斬新さ」から考えるゲーム開発](https://youtu.be/-qWwYVWgczA?t=3002)・・・プランナー的視点、斬新なアイディア
 - [#TokyoIndies on Twitter](https://twitter.com/hashtag/TokyoIndies?src=hashtag_click&f=live)
 
-# 6回目
+# 7回目
+## GitHubのPush失敗について
+- GitHubはフリープランでLFSというものを使わない場合、1つのファイルのサイズが100MBまでに制限される
+- うっかり100MBを越えるファイルをコミットしてしまうと、Pushもできず、取り消しもできなくなる
+- 手軽な解決策
+  - 現在のプロジェクトフォルダーの名前の最後に`.bk`などを付けて名前を変える
+  - プロジェクトフォルダーを開いて、容量をオーバーしているファイルと、`.git`フォルダーを削除
+  - GitHub Desktopに切り替えると、リポジトリーが見つからなくなるのでエラーが表示されるので、メニューの中の Clone Again をクリックして、クローンをし直す
+  - `.bk`をつけたプロジェクトフォルダーの中身をコピーして、クローンし直したプロジェクトフォルダーに上書きコピー
+  - Unityでプロジェクトを開いて、問題がないことを確認
+
+以上で問題は解決するので、コミットとプッシュをし直す。全ての作業が問題なく完了したら、`.bk`をつけた元のプロジェクトフォルダーを削除して完了。
 
 ## 予定
+
+- [写真のデザインとライティング・ポストプロセッシング](https://docs.google.com/document/d/1PhYwUOJd5xHd2JtDEFSgeMRXTd7xlZ3Nv3ANUAR9rn0/)
+
+## 内容
+- [写真のデザイン](https://am1.jp/dat/design/design6-photo.pdf)
+  - [図](https://am1.jp/dat/design/design6-photo-fig.pdf)
+- [作業手順](https://docs.google.com/document/d/1PhYwUOJd5xHd2JtDEFSgeMRXTd7xlZ3Nv3ANUAR9rn0/)
+
+## 演習準備
+### Unityのプロジェクト作成とGitHubへの登録
+- プロジェクト名を`PostProcessPrac`、**3D**でUnityプロジェクトを作成
+- *File*メニューから*Save Project*を選択して、プロジェクトを保存
+
+## 演習
+- コーネルボックスを作る
+  - [monobook.org. コーネルボックスとは](https://monobook.org/wiki/%E3%82%B3%E3%83%BC%E3%83%8D%E3%83%AB%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9)
+- SphereやPlane、ボックスなどを配置して着色
+- 様々なライトを試す
+- カメラの画角(Field of view = 視野角)
+- ポストプロセスによる被写界深度(ボケ)の表現、HDR(High Dynamic Range)による輝き
+  - [設定手順](http://am1tanaka.hatenablog.com/entry/2018/05/19/172121)
+- できたらスクリーンショットをSlackの自分のチャンネルに貼り付け
+
+## 時間があれば...
+- これまでのおさらい
+- ゲームっぽい画面を作ってみる
+
+## ライティングについて参考
+- [Unity公式. ライティングの手法](https://docs.unity3d.com/ja/current/Manual/BestPracticeMakingBelievableVisuals3.html)
+- [テラシュールブログ. Lightmap](http://tsubakit1.hateblo.jp/archive/category/Lightmap)
+- [テラシュールブログ. 画面効果](http://tsubakit1.hateblo.jp/archive/category/%E7%94%BB%E9%9D%A2%E5%8A%B9%E6%9E%9C)
+
+
+
+# 6回目
+
+## 内容
 ### フォント。UI
 - [文字のデザイン](https://am1.jp/dat/design/design5-font.pdf)
   - [図](https://am1.jp/dat/design/design5-font-fig.pdf)
@@ -63,10 +111,6 @@
 ### 提出
 - Googleスライドを共有済みなら更新したら自動的に提出になる
 - 3回目にスライドを未提出の場合は、[こちら](https://docs.google.com/forms/d/e/1FAIpQLScc9scLVvYA8nCuFTSHURvQtOBTEZL2bilB6GWgb78jMYkgFA/viewform?usp=sf_link) に共有URLを登録
-
-
-### 時間が余ったら
-- [写真のデザインとライティング・ポストプロセッシング](https://docs.google.com/document/d/1PhYwUOJd5xHd2JtDEFSgeMRXTd7xlZ3Nv3ANUAR9rn0/)
 
 
 # 5回目(5/26)
