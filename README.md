@@ -26,10 +26,6 @@
 以上で問題は解決するので、コミットとプッシュをし直す。全ての作業が問題なく完了したら、`.bk`をつけた元のプロジェクトフォルダーを削除して完了。
 
 ## 予定
-
-- [写真のデザインとライティング・ポストプロセッシング](https://docs.google.com/document/d/1PhYwUOJd5xHd2JtDEFSgeMRXTd7xlZ3Nv3ANUAR9rn0/)
-
-## 内容
 - [写真のデザイン](https://am1.jp/dat/design/design6-photo.pdf)
   - [図](https://am1.jp/dat/design/design6-photo-fig.pdf)
 - [作業手順](https://docs.google.com/document/d/1PhYwUOJd5xHd2JtDEFSgeMRXTd7xlZ3Nv3ANUAR9rn0/)
