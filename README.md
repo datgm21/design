@@ -28,7 +28,6 @@
 ## 予定
 - [写真のデザイン](https://am1.jp/dat/design/design6-photo.pdf)
   - [図](https://am1.jp/dat/design/design6-photo-fig.pdf)
-- [作業手順](https://docs.google.com/document/d/1PhYwUOJd5xHd2JtDEFSgeMRXTd7xlZ3Nv3ANUAR9rn0/)
 
 ## 演習準備
 ### Unityのプロジェクト作成とGitHubへの登録
@@ -38,22 +37,22 @@
 ## 演習
 - コーネルボックスを作る
   - [monobook.org. コーネルボックスとは](https://monobook.org/wiki/%E3%82%B3%E3%83%BC%E3%83%8D%E3%83%AB%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9)
-- SphereやPlane、ボックスなどを配置して着色
-- 様々なライトを試す
-- カメラの画角(Field of view = 視野角)
-- ポストプロセスによる被写界深度(ボケ)の表現、HDR(High Dynamic Range)による輝き
-  - [設定手順](http://am1tanaka.hatenablog.com/entry/2018/05/19/172121)
+- [作業手順](https://docs.google.com/document/d/1PhYwUOJd5xHd2JtDEFSgeMRXTd7xlZ3Nv3ANUAR9rn0/)
+  - SphereやPlane、ボックスなどを配置して着色
+  - 様々なライトを試す
+  - カメラの画角(Field of view = 視野角)
+  - ポストプロセスによる被写界深度(ボケ)の表現、HDR(High Dynamic Range)による輝き
+    - [設定手順](http://am1tanaka.hatenablog.com/entry/2018/05/19/172121)
 - できたらスクリーンショットをSlackの自分のチャンネルに貼り付け
 
 ## 時間があれば...
 - これまでのおさらい
-- ゲームっぽい画面を作ってみる
+- 前回の画面にさらに手を入れる
 
 ## ライティングについて参考
 - [Unity公式. ライティングの手法](https://docs.unity3d.com/ja/current/Manual/BestPracticeMakingBelievableVisuals3.html)
 - [テラシュールブログ. Lightmap](http://tsubakit1.hateblo.jp/archive/category/Lightmap)
 - [テラシュールブログ. 画面効果](http://tsubakit1.hateblo.jp/archive/category/%E7%94%BB%E9%9D%A2%E5%8A%B9%E6%9E%9C)
-
 
 
 # 6回目
