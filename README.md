@@ -13,6 +13,9 @@
 - [#TokyoIndies on Twitter](https://twitter.com/hashtag/TokyoIndies?src=hashtag_click&f=live)
 
 # 7回目
+## 話題
+- [日本ゲーム大賞 U18部門. 2021予選大会進出作品](https://u18.awards.cesa.or.jp/qualifying2021/)
+
 ## GitHubのPush失敗について
 - GitHubはフリープランでLFSというものを使わない場合、1つのファイルのサイズが100MBまでに制限される
 - うっかり100MBを越えるファイルをコミットしてしまうと、Pushもできず、取り消しもできなくなる
