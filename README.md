@@ -12,6 +12,30 @@
 - [tnkさん. 「斬新さ」から考えるゲーム開発](https://youtu.be/-qWwYVWgczA?t=3002)・・・プランナー的視点、斬新なアイディア
 - [#TokyoIndies on Twitter](https://twitter.com/hashtag/TokyoIndies?src=hashtag_click&f=live)
 
+# 8回目
+## 予定
+- [https://docs.google.com/document/d/15zRG0hcf9OU3TFoJ5vZL43AGPKCqewpD7KS_QYwntaA/](著作権概論)
+- 演習：素材サイトの調査
+- 11:30から筆記試験
+
+## 演習
+- 利用可能なフリー素材サイトを探してSlackにURLを貼って共有しよう。また、以下について利用規約を調べてコメントする
+  - 利用条件(著作者表示やURLの記載など)
+  - 商用利用の可否
+  - 再配布の可否
+
+## 筆記試験
+- 11:30 準備
+  - PCの電源を切る
+  - 座席を移動
+  - スマホなどはカバンに入れて、かばんは足元
+  - 机の上は筆記用具のみ
+  - **問題用紙には何も書かないこと**
+- 11:40 試験開始
+- 12:00 試験が終わった者は、提出して退室可
+- 12:20 試験終了
+
+
 # 7回目
 ## 話題
 - [日本ゲーム大賞 U18部門. 2021予選大会進出作品](https://u18.awards.cesa.or.jp/qualifying2021/)
@@ -28,7 +52,7 @@
 
 以上で問題は解決するので、コミットとプッシュをし直す。全ての作業が問題なく完了したら、`.bk`をつけた元のプロジェクトフォルダーを削除して完了。
 
-## 予定
+## 内容
 - [写真のデザイン](https://am1.jp/dat/design/design6-photo.pdf)
   - [図](https://am1.jp/dat/design/design6-photo-fig.pdf)
 
