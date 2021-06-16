@@ -14,7 +14,7 @@
 
 # 8回目
 ## 予定
-- [https://docs.google.com/document/d/15zRG0hcf9OU3TFoJ5vZL43AGPKCqewpD7KS_QYwntaA/](著作権概論)
+- [著作権概論](https://docs.google.com/document/d/15zRG0hcf9OU3TFoJ5vZL43AGPKCqewpD7KS_QYwntaA/edit?usp=sharing)
 - 演習：素材サイトの調査
 - 15:20から筆記試験
 
