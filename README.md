@@ -19,7 +19,7 @@
   - マウスで操作
   - 10秒以内にコインを全て取ればクリア
   - トゲの甲羅にぶつかるか10秒経過でゲームオーバー
-
+- [よけとるUnityプロジェクトの作成](https://docs.google.com/document/d/1rk3klNfDD5tlQ0CpZVt34NibBh50MT6dYGDpHXmbCPw/)
 
 # 8回目
 ## 内容
