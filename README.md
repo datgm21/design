@@ -14,7 +14,6 @@
 
 # 9回目
 ## 予定
-- clusterの更新とワールドを試す
 - [よけとる](https://datgm20.github.io/OpenYoketoru2020/WebGL/index.html)のプロジェクト作成と素材集め
   - マウスで操作
   - 10秒以内にコインを全て取ればクリア
