@@ -12,8 +12,17 @@
 - [tnkさん. 「斬新さ」から考えるゲーム開発](https://youtu.be/-qWwYVWgczA?t=3002)・・・プランナー的視点、斬新なアイディア
 - [#TokyoIndies on Twitter](https://twitter.com/hashtag/TokyoIndies?src=hashtag_click&f=live)
 
-# 8回目
+# 9回目
 ## 予定
+- clusterの更新とワールドを試す
+- [よけとる](https://datgm20.github.io/OpenYoketoru2020/WebGL/index.html)のプロジェクト作成と素材集め
+  - マウスで操作
+  - 10秒以内にコインを全て取ればクリア
+  - トゲの甲羅にぶつかるか10秒経過でゲームオーバー
+
+
+# 8回目
+## 内容
 - [著作権概論](https://docs.google.com/document/d/15zRG0hcf9OU3TFoJ5vZL43AGPKCqewpD7KS_QYwntaA/edit?usp=sharing)
 - 演習：素材サイトの調査
 - 15:20から筆記試験
