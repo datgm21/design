@@ -18,6 +18,7 @@
   - スタートメニュー > `cluster`と入力 > clusterを起動
   - アップデートをクリック。管理者権限が必要なので教員を呼ぶ
   - ワールドを確認
+- Unity2019.4.11f1 に WebGL モジュールを加える
 - [よけとる](https://datgm20.github.io/OpenYoketoru2020/WebGL/index.html)のプロジェクト作成と素材集め
   - マウスで操作
   - 10秒以内にコインを全て取ればクリア
