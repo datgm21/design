@@ -13,6 +13,8 @@
 - [#TokyoIndies on Twitter](https://twitter.com/hashtag/TokyoIndies?src=hashtag_click&f=live)
 
 # 9回目
+ゲームデザイン実習の座席は引き続き自由。
+
 ## 予定
 - clusterのアップデート
   - スタートメニュー > `cluster`と入力 > clusterを起動
