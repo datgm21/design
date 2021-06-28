@@ -12,9 +12,23 @@
 - [tnkさん. 「斬新さ」から考えるゲーム開発](https://youtu.be/-qWwYVWgczA?t=3002)・・・プランナー的視点、斬新なアイディア
 - [#TokyoIndies on Twitter](https://twitter.com/hashtag/TokyoIndies?src=hashtag_click&f=live)
 
+## Unity Tips
+- [Unityのキーやクリック入力](https://youtu.be/JEkGwMsfhJw)
+- [シーンの切り替え方、追加読み込み](https://docs.google.com/document/d/1b-fEcK0ukqNPFud4aNV1lige0wnLZwxQnathiJFyz3M/)
+- [アニメーション](https://docs.google.com/document/d/1TSYwJRlmwFLufuDN7bT1jhf4M9AEYWgyK7dw1N3k2nQ/)
+- [パーティクル](https://docs.google.com/document/d/13vWsBWsutopnjLn1TbvYh8lVDws4ZXi6JmjSfXX6gUw/)
+- [Unityでの操作、オブジェクトの作り方、動かし方、当たり判定](https://docs.google.com/document/d/1nxfDwO0c71HX4H4VlSwoH1ahLiG0cgBxjAQqR-IeOwY/)
+- [スクリーンショットの作成](https://docs.google.com/document/d/1omv9vn84ztpiBCGm4Eyme0eohL4_GqO1SCbUB4LGNTg/)
+- [Unityゲーム開発者ギルド](https://unity-game-dev-guild.github.io/)
+
+
+
 # 10回目
 - ゲームデザイン実習の座席は引き続き自由
 - 先週、Unity2019.4.11f1にWebGLがなかったPCは修正済み
+
+## 話題
+- [かねた. FINAL STAGE制作記録](https://nanka.hateblo.jp/entry/2021/06/28/002551)
 
 ## 予定
 - [よけとる](https://datgm20.github.io/OpenYoketoru2020/WebGL/index.html)の素材組み込み
@@ -33,7 +47,11 @@
 - 素材集めの注意点
   - 入手もとのURLをSlackなどに書き込んで記録しておくこと
   - 作品は3Dで作成するので3Dのものの方が良いが、2Dでも作成は可能。どちらかに統一しておく方が良い
-
+- 以下のシーンを作成する
+  - タイトル
+  - ゲーム中
+  - ゲームオーバー(マルチシーン)
+  - クリア(マルチシーン)
 
 
 # 9回目
