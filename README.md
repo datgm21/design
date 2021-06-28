@@ -19,6 +19,7 @@
 - [パーティクル](https://docs.google.com/document/d/13vWsBWsutopnjLn1TbvYh8lVDws4ZXi6JmjSfXX6gUw/)
 - [Unityでの操作、オブジェクトの作り方、動かし方、当たり判定](https://docs.google.com/document/d/1nxfDwO0c71HX4H4VlSwoH1ahLiG0cgBxjAQqR-IeOwY/)
 - [スクリーンショットの作成](https://docs.google.com/document/d/1omv9vn84ztpiBCGm4Eyme0eohL4_GqO1SCbUB4LGNTg/)
+  - 静止画なら Windowsキー + Shift + S キーで範囲を指定した方が楽
 - [Unityゲーム開発者ギルド](https://unity-game-dev-guild.github.io/)
 
 
