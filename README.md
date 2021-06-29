@@ -7,10 +7,11 @@
 # 参考URL
 ## 企画
 - [Jesse Schell's ゲームデザインレンズデッキ](http://deck.artofgamedesign.com/#/?lang=jp)
-- [マミーさん. チーム「密会取り締まり委員会」の発表](https://youtu.be/-qWwYVWgczA?t=6093)・・・ブレストの例 / チーム開発について
-- [EIKIさん. ゴリラが人類を強制的にSTAY HOMEさせるゲーム](https://youtu.be/-qWwYVWgczA?t=6719)・・・アイディアの転がし方、発注、ペース、進め方
-- [tnkさん. 「斬新さ」から考えるゲーム開発](https://youtu.be/-qWwYVWgczA?t=3002)・・・プランナー的視点、斬新なアイディア
+- [マミー. チーム「密会取り締まり委員会」の発表](https://youtu.be/-qWwYVWgczA?t=6093)・・・ブレストの例 / チーム開発について
+- [EIKI. ゴリラが人類を強制的にSTAY HOMEさせるゲーム](https://youtu.be/-qWwYVWgczA?t=6719)・・・アイディアの転がし方、発注、ペース、進め方
+- [tnk. 「斬新さ」から考えるゲーム開発](https://youtu.be/-qWwYVWgczA?t=3002)・・・プランナー的視点、斬新なアイディア
 - [#TokyoIndies on Twitter](https://twitter.com/hashtag/TokyoIndies?src=hashtag_click&f=live)
+- [かねた. FINAL STAGE制作記録](https://nanka.hateblo.jp/entry/2021/06/28/002551)
 
 ## Unity Tips
 - [Unityのキーやクリック入力](https://youtu.be/JEkGwMsfhJw)
@@ -27,9 +28,6 @@
 # 10回目
 - ゲームデザイン実習の座席は引き続き自由
 - 先週、Unity2019.4.11f1にWebGLがなかったPCは修正済み
-
-## 話題
-- [かねた. FINAL STAGE制作記録](https://nanka.hateblo.jp/entry/2021/06/28/002551)
 
 ## 予定
 - [よけとる](https://datgm20.github.io/OpenYoketoru2020/WebGL/index.html)の素材組み込み
