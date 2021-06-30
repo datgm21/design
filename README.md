@@ -33,6 +33,7 @@
 ## 予定
 - [よけとる](https://datgm20.github.io/OpenYoketoru2020/WebGL/index.html)の素材組み込み
   - [00よけとるUnityプロジェクトの作成](https://docs.google.com/document/d/1rk3klNfDD5tlQ0CpZVt34NibBh50MT6dYGDpHXmbCPw/)
+  - [01シーン遷移](https://docs.google.com/document/d/1jedYTiwZGNY2jnzP2awPAoVLjET93fylEYXc0BriXTk/)
 - 用意する素材
   - プレイヤー
   - 敵(障害物)
