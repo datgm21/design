@@ -24,13 +24,18 @@
   - 静止画なら Windowsキー + Shift + S キーで範囲を指定した方が楽
 - [Unityゲーム開発者ギルド](https://unity-game-dev-guild.github.io/)
 
+# 11回目
 
+## 予定
+- [よけとる](https://datgm20.github.io/OpenYoketoru2020/WebGL/index.html)の素材組み込み
+  - [01シーン遷移](https://docs.google.com/document/d/1jedYTiwZGNY2jnzP2awPAoVLjET93fylEYXc0BriXTk/)
+    - 開始効果音の問題発生から再開
 
 # 10回目
 - ゲームデザイン実習の座席は引き続き自由
 - 先週、Unity2019.4.11f1にWebGLがなかったPCは修正済み
 
-## 予定
+## 内容
 - [よけとる](https://datgm20.github.io/OpenYoketoru2020/WebGL/index.html)の素材組み込み
   - [00よけとるUnityプロジェクトの作成](https://docs.google.com/document/d/1rk3klNfDD5tlQ0CpZVt34NibBh50MT6dYGDpHXmbCPw/)
   - [01シーン遷移](https://docs.google.com/document/d/1jedYTiwZGNY2jnzP2awPAoVLjET93fylEYXc0BriXTk/)
