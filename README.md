@@ -26,6 +26,10 @@
 
 # 11回目
 
+## 話題
+- [paiza開発日誌. コードが書ければいい」だけじゃない！エンジニアを目指す人向け基礎テクニック](https://paiza.hatenablog.com/entry/2021/07/05/130000)
+
+
 ## 予定
 - [よけとる](https://datgm20.github.io/OpenYoketoru2020/WebGL/index.html)の素材組み込み
   - [01シーン遷移](https://docs.google.com/document/d/1jedYTiwZGNY2jnzP2awPAoVLjET93fylEYXc0BriXTk/)
