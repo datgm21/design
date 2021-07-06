@@ -34,6 +34,7 @@
 - [よけとる](https://datgm20.github.io/OpenYoketoru2020/WebGL/index.html)の素材組み込み
   - [01シーン遷移](https://docs.google.com/document/d/1jedYTiwZGNY2jnzP2awPAoVLjET93fylEYXc0BriXTk/)
     - 開始効果音の問題発生から再開
+  - [02画面の作成](https://docs.google.com/document/d/1HPpJo7mVPVkBPub7OjiME6m65Wtbz9AX_LgGq2XjouM/)
 
 # 10回目
 - ゲームデザイン実習の座席は引き続き自由
