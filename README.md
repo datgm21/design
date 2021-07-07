@@ -35,6 +35,14 @@
   - [01シーン遷移](https://docs.google.com/document/d/1jedYTiwZGNY2jnzP2awPAoVLjET93fylEYXc0BriXTk/)
     - 開始効果音の問題発生から再開
   - [02画面の作成](https://docs.google.com/document/d/1HPpJo7mVPVkBPub7OjiME6m65Wtbz9AX_LgGq2XjouM/)
+  - 直近でほしい素材
+    - GameOverとClearの音
+    - 背景
+    - プレイヤーキャラクター
+    - 敵キャラクター
+    - アイテムキャラクター
+    - スコアやタイム用フォント
+ 
 
 # 10回目
 - ゲームデザイン実習の座席は引き続き自由
