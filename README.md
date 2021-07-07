@@ -24,6 +24,25 @@
   - 静止画なら Windowsキー + Shift + S キーで範囲を指定した方が楽
 - [Unityゲーム開発者ギルド](https://unity-game-dev-guild.github.io/)
 
+# 12回目
+
+## やってくること
+以下の素材を見つけて、UnityのYoketoru2021にインポートしておく。
+
+- GameOverとClearの音
+- 背景
+- プレイヤーキャラクター
+- 敵キャラクター
+- アイテムキャラクター
+- スコアやタイム用フォント
+
+## 予定
+- [01シーン遷移](https://docs.google.com/document/d/1jedYTiwZGNY2jnzP2awPAoVLjET93fylEYXc0BriXTk/)
+  - ゲームオーバーとクリア曲
+- [02画面の作成](https://docs.google.com/document/d/1HPpJo7mVPVkBPub7OjiME6m65Wtbz9AX_LgGq2XjouM/)
+  - モックアップ画面作成
+
+
 # 11回目
 
 ## 話題
