@@ -41,7 +41,8 @@
   - ゲームオーバーとクリア曲
 - [02画面の作成](https://docs.google.com/document/d/1HPpJo7mVPVkBPub7OjiME6m65Wtbz9AX_LgGq2XjouM/)
   - モックアップ画面作成
-
+  - UI
+  - アニメーション
 
 # 11回目
 
