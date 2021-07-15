@@ -25,6 +25,8 @@
 - [Unityゲーム開発者ギルド](https://unity-game-dev-guild.github.io/)
 
 # 13回目
+## 話題
+- [ゲームクリエイター甲子園](https://game.creators-guild.com/gck2021/)
 
 ## 予定
 - [よけとる for Unity](https://docs.google.com/document/d/1a3WNcxw9QOwKX9fGPmDTP3zXpboHtHTlKkHdRPvpVGY/) 「アイテムと敵の移動」から
