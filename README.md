@@ -24,6 +24,11 @@
   - 静止画なら Windowsキー + Shift + S キーで範囲を指定した方が楽
 - [Unityゲーム開発者ギルド](https://unity-game-dev-guild.github.io/)
 
+# 13回目
+
+## 予定
+- [よけとる for Unity](https://docs.google.com/document/d/1a3WNcxw9QOwKX9fGPmDTP3zXpboHtHTlKkHdRPvpVGY/) 「アイテムと敵の移動」から
+
 # 12回目
 
 ## やってくること
