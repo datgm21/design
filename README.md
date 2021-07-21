@@ -32,6 +32,9 @@
 ## 予定
 - [よけとる for Unity](https://docs.google.com/document/d/1a3WNcxw9QOwKX9fGPmDTP3zXpboHtHTlKkHdRPvpVGY/) 「アイテムと敵の移動」から
 
+## 夏休み中などの質問
+- [Slack](https://datgm21.slack.com)の #general チャンネルを利用してください
+
 # 12回目
 
 ## やってくること
