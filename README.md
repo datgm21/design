@@ -1,6 +1,6 @@
 # 2021年度生 ゲームデザイン実習
 - [シラバス](https://drive.google.com/file/d/1dIiRItttkABdvisRGQuZwYjKLJt8mgSJ/)
-- [質問](https://meet.google.com/nfe-tjom-mtb)
+- [質問](https://meet.google.com/jdv-ebbs-bjp)
 - [昨年度の講義資料](https://github.com/datgm20/design)
 - [Slack](https://datgm21.slack.com)
 - [講義日程](https://github.com/datgm21/design/blob/main/wed.md)
