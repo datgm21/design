@@ -24,12 +24,42 @@
   - 静止画なら Windowsキー + Shift + S キーで範囲を指定した方が楽
 - [Unityゲーム開発者ギルド](https://unity-game-dev-guild.github.io/)
 
+# 14回目
+
+## 話題
+- [cluster GAMEJAM 2021 in SUMMER](https://www.contest.cluster.mu/gamejam2021summer-home)
+  - [HOP!STEP!JUMP!　チャレンジ賞受賞](https://cluster.mu/sections/GAMEJAM2021SUMMER_CHALLENGE)
+  - [溶岩洞窟 de ジャンプ！ ビジュアル部門](https://cluster.mu/sections/GAMEJAM2021SUMMER_VISUAL)　
+- [Kenney Jam 2021](https://itch.io/jam/kenney-jam-2021)
+  - [Wall Walkerが5位](https://itch.io/jam/kenney-jam-2021/results)
+- [1週間ゲームジャム 9/6(月) 0:00からスタート](https://unityroom.com/unity1weeks)
+
+## 予定
+- 夏休み課題の仕上げと質疑応答
+- 前期末共通課題
+
+## 前期課題 ゲームデザイン実習/ゲームプログラミング共通課題
+
+[課題詳細](https://docs.google.com/document/d/1QkyTcS0dhmBYcvE5owf5mDQSYJKpDDzO1LkCZf52ZHQ/)の指示に従って、以下を提出する。
+
+- 夏休みに制作したUnity、あるいは、clusterの作品に 課題詳細 の項目を入力して、限定公開(あるいは公開)してURLを報告
+- Unityプロジェクトを手順に従ってまとめて、Googleドライブにアップロードしたものを共有して報告
+
+締め切り
+- 9/2(木) 13時 までに提出されたもので合否判定
+- 9/9(木) 13時 まで更新可能。ボーナス点対象
+
+## 次回15回目(9/8)予定
+- 1週間ゲームジャムの企画・開発
+- 9/2までに仕上がらなかった課題があれば仕上げる
+
+
 # 13回目
 ## 話題
 - [ゲームクリエイター甲子園](https://game.creators-guild.com/gck2021/)
 - [ClusterGAMEJAM 2021 in SUMMER](https://www.contest.cluster.mu/gamejam2021summer-home)
 
-## 予定
+## 内容
 - [よけとる for Unity](https://docs.google.com/document/d/1a3WNcxw9QOwKX9fGPmDTP3zXpboHtHTlKkHdRPvpVGY/) 「アイテムと敵の移動」から
 
 ## 夏休み中などの質問
