@@ -24,6 +24,15 @@
   - 静止画なら Windowsキー + Shift + S キーで範囲を指定した方が楽
 - [Unityゲーム開発者ギルド](https://unity-game-dev-guild.github.io/)
 
+# 15回目
+## 話題
+- [電ファミニコゲーマー. コナミと集英社による「アクション＆シューティング ゲームコンテスト」開催決定](https://news.denfaminicogamer.jp/news/210902k)
+- [1週間ゲームジャム](https://unityroom.com/unity1weeks)
+
+## 予定
+- 1週間ゲームジャム企画＆開発
+- 終わっていなければ、前期末共通課題
+
 # 14回目
 
 ## 話題
@@ -34,7 +43,7 @@
   - [Wall Walkerが5位](https://itch.io/jam/kenney-jam-2021/results)
 - [1週間ゲームジャム 9/6(月) 0:00からスタート](https://unityroom.com/unity1weeks)
 
-## 予定
+## 内容
 - 夏休み課題の仕上げと質疑応答
 - 前期末共通課題
 
