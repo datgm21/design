@@ -30,9 +30,11 @@
 - [1週間ゲームジャム](https://unityroom.com/unity1weeks)
 
 ## 予定
+- 先週の提出物について、自作した項目を箇条書きして [ここ](https://docs.google.com/forms/d/e/1FAIpQLScc9scLVvYA8nCuFTSHURvQtOBTEZL2bilB6GWgb78jMYkgFA/viewform?usp=sf_link) へ共有URLを報告
+  - [報告例](https://docs.google.com/document/d/1mjPk8-X3gv7I1Bx-o1zteNttsqxUL6e32Mtm8syR6Xg/)
 - 1週間ゲームジャム企画＆開発
 - 終わっていなければ、前期末共通課題
-- **提出がプロジェクトのみの人** 以下の要素をGoogleドキュメントにまとめて、共有URLを ここ に報告
+- **提出がプロジェクトのみの人** 以下の要素をGoogleドキュメントにまとめて、共有URLを [ここ](https://docs.google.com/forms/d/e/1FAIpQLScc9scLVvYA8nCuFTSHURvQtOBTEZL2bilB6GWgb78jMYkgFA/viewform?usp=sf_link) に報告
   - ゲーム画面のスクリーンショット
   - 1～2行でゲームの概要
   - 具体的な操作方法とルール
@@ -93,7 +95,7 @@
 - アイテムキャラクター
 - スコアやタイム用フォント
 
-## 予定
+## 内容
 - [01シーン遷移](https://docs.google.com/document/d/1jedYTiwZGNY2jnzP2awPAoVLjET93fylEYXc0BriXTk/)
   - ゲームオーバーとクリア曲
 - [02画面の作成](https://docs.google.com/document/d/1HPpJo7mVPVkBPub7OjiME6m65Wtbz9AX_LgGq2XjouM/)
@@ -107,7 +109,7 @@
 - [paiza開発日誌. コードが書ければいい」だけじゃない！エンジニアを目指す人向け基礎テクニック](https://paiza.hatenablog.com/entry/2021/07/05/130000)
 
 
-## 予定
+## 内容
 - [よけとる](https://datgm20.github.io/OpenYoketoru2020/WebGL/index.html)の素材組み込み
   - [01シーン遷移](https://docs.google.com/document/d/1jedYTiwZGNY2jnzP2awPAoVLjET93fylEYXc0BriXTk/)
     - 開始効果音の問題発生から再開
