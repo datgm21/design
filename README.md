@@ -30,6 +30,9 @@
 - [講談社. ゲームクリエイターズラボ](https://creatorslab.kodansha.co.jp/)
 - [1週間ゲームジャム](https://unityroom.com/unity1weeks)
 
+## Tips
+- [Unityの3D画面で2D画像を扱う](https://docs.google.com/document/d/1T7Lpx5EqgETLZx4xcaM-wZFaVVEeIvvpCofgHyVjYYw/)
+
 ## 予定
 - 先週の提出物について、自作した項目を箇条書きして [ここ](https://docs.google.com/forms/d/e/1FAIpQLScc9scLVvYA8nCuFTSHURvQtOBTEZL2bilB6GWgb78jMYkgFA/viewform?usp=sf_link) へ共有URLを報告
   - [報告例](https://docs.google.com/document/d/1mjPk8-X3gv7I1Bx-o1zteNttsqxUL6e32Mtm8syR6Xg/)
