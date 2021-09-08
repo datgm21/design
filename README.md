@@ -27,6 +27,7 @@
 # 15回目
 ## 話題
 - [電ファミニコゲーマー. コナミと集英社による「アクション＆シューティング ゲームコンテスト」開催決定](https://news.denfaminicogamer.jp/news/210902k)
+- [講談社. ゲームクリエイターズラボ](https://creatorslab.kodansha.co.jp/)
 - [1週間ゲームジャム](https://unityroom.com/unity1weeks)
 
 ## 予定
