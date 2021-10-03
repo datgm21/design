@@ -24,6 +24,53 @@
   - 静止画なら Windowsキー + Shift + S キーで範囲を指定した方が楽
 - [Unityゲーム開発者ギルド](https://unity-game-dev-guild.github.io/)
 
+# DATフェスタまで日程
+<table>
+<thead>
+<tr>
+<th align="right">回数</th>
+<th align="center">日程</th>
+<th align="left">備考</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="right">1</td>
+<td align="center">10/6, -</td>
+<td align="left">1. 前期の最終課題の再確認 / DATフェスタの企画決定とスケジューリング</td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td align="center">10/13, 14</td>
+<td align="left">作業</td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td align="center">10/20, 21</td>
+<td align="left">β版</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td align="center">10/27, 28</td>
+<td align="left">展示版ビルド</td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td align="center">-, 11/4</td>
+<td align="left">展示準備</td>
+</tr>
+<tr>
+<td align="center" colspan=3>11/12, 13 DATフェスタ</td>
+</tr>
+</tbody>
+</table>
+
+# 後期1回目
+
+
+
+---
+
 # 15回目
 ## 話題
 - [電ファミニコゲーマー. コナミと集英社による「アクション＆シューティング ゲームコンテスト」開催決定](https://news.denfaminicogamer.jp/news/210902k)
