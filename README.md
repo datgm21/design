@@ -69,7 +69,7 @@
 ## 予定
 - 今後の予定の確認
 - 前期の最終課題作品の検討
-- チーム決め
+- [チーム決め](https://docs.google.com/document/d/1Xb17rcMJGyqC-yDpo8Gm-xtH5ASUL3TFE0dVhES_57E/)
   - 4～6チーム程度
 - 企画会議
   - slackにチームチャンネルを作成
