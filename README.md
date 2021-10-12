@@ -36,7 +36,7 @@
 <tbody>
 <tr>
 <td align="right">1</td>
-<td align="center">10/6, -</td>
+  <td align="center"><s>10/6, -</s></td>
 <td align="left">前期の最終課題作品の確認 / チーム決めと企画会議</td>
 </tr>
 <tr>
@@ -99,6 +99,11 @@
 - 予定
   - 画面レイアウトのモックを作成
   - 具体的な動きなどについて仕様を決める
+
+## 時間があれば
+- Unityで簡単に共有作業をする手順
+  - [チーム制作用のUnityプロジェクトの作成](https://docs.google.com/document/d/1cRjenYNnFoHOXuSda-6iQNrZwfeVjqlD4iEBT32Qwck/)
+  - [Unityパッケージを利用した簡単なUnityチーム開発](https://docs.google.com/document/d/10UpsXhB-dGMrBqmMvZow-xGcs57YMysIfNekGgEWkzM/)
 
 
 # 後期1回目(10/6)
