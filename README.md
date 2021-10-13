@@ -72,10 +72,7 @@
 ※clusterはAlt + Enterキーでフルスクリーン
 
 # 後期2回目(10/13)
-## 話題
-- [cluster. バーチャル渋谷 au5G ハロウィーンフェス](https://vcity.au5g.jp/shibuya/halloween2021#sanka) 10/16-31
-
-## 予定
+## 内容
 - 企画打ち合わせ
 
 ### cluster
