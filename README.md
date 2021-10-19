@@ -41,7 +41,7 @@
 </tr>
 <tr>
 <td align="right">2</td>
-<td align="center">10/13, 14</td>
+  <td align="center"><s>10/13, 14</s></td>
 <td align="left">作業</td>
 </tr>
 <tr>
