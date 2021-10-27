@@ -15,6 +15,7 @@
 - [かねた. FINAL STAGE制作記録](https://nanka.hateblo.jp/entry/2021/06/28/002551)
 
 ## Unity Tips
+- [Unity2019.4.11f1へのClusterCreatorKitのインポート手順](https://docs.google.com/document/d/1P8aB8b_Yy0rNqPlkLMtV2lPtuNm1sYbXvDT1UuOj1Hg/]
 - [Unityのキーやクリック入力](https://youtu.be/JEkGwMsfhJw)
 - [シーンの切り替え方、追加読み込み](https://docs.google.com/document/d/1b-fEcK0ukqNPFud4aNV1lige0wnLZwxQnathiJFyz3M/)
 - [アニメーション](https://docs.google.com/document/d/1TSYwJRlmwFLufuDN7bT1jhf4M9AEYWgyK7dw1N3k2nQ/)
