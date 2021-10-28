@@ -52,7 +52,7 @@
 </tr>
 <tr>
 <td align="right">4</td>
-  <td align="center">10/<s>27,</s> 28</td>
+  <td align="center"><s>10/27, 28</s></td>
 <td align="left">展示版ビルド / 展示パネルなどのデータ作成</td>
 </tr>
 <tr>
