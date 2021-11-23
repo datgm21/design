@@ -1,5 +1,6 @@
 # 2021年度生 ゲームデザイン実習
 - [シラバス](https://drive.google.com/file/d/1dIiRItttkABdvisRGQuZwYjKLJt8mgSJ/)
+- [後期の座席](https://docs.google.com/spreadsheets/d/1KAVeA-KRZoyx0lwaYfgh95r0BmG8m7EYxKE8nIAkVJk/)
 - [質問](https://meet.google.com/jdv-ebbs-bjp)
 - [昨年度の講義資料](https://github.com/datgm20/design)
 - [Slack](https://datgm21.slack.com)
@@ -26,6 +27,8 @@
 - [Unityゲーム開発者ギルド](https://unity-game-dev-guild.github.io/)
 
 # 6回目(11/24)
+
+[後期の座席](https://docs.google.com/spreadsheets/d/1KAVeA-KRZoyx0lwaYfgh95r0BmG8m7EYxKE8nIAkVJk/)
 
 ## 予定
 - Webページ用の素材を用意して、`Z:\student\gp1\DATフェスタ`内の作品名フォルダー内に`web`という名前のフォルダーを作成して、その中に提出する
