@@ -26,13 +26,21 @@
   - 静止画なら Windowsキー + Shift + S キーで範囲を指定した方が楽
 - [Unityゲーム開発者ギルド](https://unity-game-dev-guild.github.io/)
 
-# 6回目(11/24)
+# 7回目(12/1)
 
 [後期の座席](https://docs.google.com/spreadsheets/d/1KAVeA-KRZoyx0lwaYfgh95r0BmG8m7EYxKE8nIAkVJk/)
 
 [Webページ参考](https://datgm20.github.io/works/)
 
+## 話題
+- [かずぞう@ホラーゲーム作家. 企業に提案し承認された実際の企画書ぜんぶ見せます！ゲーム企画書の作り方解説](https://note.com/kazzow/n/n75b29fbd0efd)
+
 ## 予定
+- 企画、仕様の検討、作成、相談
+
+# 6回目(11/24)
+
+## 内容
 - Webページ用の素材を用意して、`Z:\student\gp1\DATフェスタ`内の作品名フォルダー内に`web`という名前のフォルダーを作成して、その中に提出する
   - 使用したアセットの著作権者名とURLを`credits.txt`という名前のテキストファイルにまとめる
   - ゲームのプレイ画面のスクリーンショットを`game-image.png`という画像ファイルで作成
