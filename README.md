@@ -30,6 +30,8 @@
 
 [後期の座席](https://docs.google.com/spreadsheets/d/1KAVeA-KRZoyx0lwaYfgh95r0BmG8m7EYxKE8nIAkVJk/)
 
+[Webページ参考](https://datgm20.github.io/works/)
+
 ## 予定
 - Webページ用の素材を用意して、`Z:\student\gp1\DATフェスタ`内の作品名フォルダー内に`web`という名前のフォルダーを作成して、その中に提出する
   - 使用したアセットの著作権者名とURLを`credits.txt`という名前のテキストファイルにまとめる
