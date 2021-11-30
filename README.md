@@ -37,6 +37,10 @@
 
 ## 予定
 - 企画、仕様の検討、作成、相談
+  - [作業方針メモ](https://docs.google.com/document/d/1SEGgOVTdS_9bh5WjrdJXg8IWGLDNlWRpL6IR9PW9xm8/)
+  - [SuperUnitychanSisters仕様](https://docs.google.com/document/d/1PKAZUuYLgpLZ4BFl2VmitCRu2PnwRKK85KOoJ8MjYtE/)
+  - Cluster 乗り物をいじる
+
 
 # 6回目(11/24)
 
