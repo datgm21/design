@@ -26,16 +26,28 @@
   - 静止画なら Windowsキー + Shift + S キーで範囲を指定した方が楽
 - [Unityゲーム開発者ギルド](https://unity-game-dev-guild.github.io/)
 
-# 7回目(12/1)
+# 8回目(12/8)
 
 [後期の座席](https://docs.google.com/spreadsheets/d/1KAVeA-KRZoyx0lwaYfgh95r0BmG8m7EYxKE8nIAkVJk/)
 
 [Webページ参考](https://datgm20.github.io/works/)
 
 ## 話題
-- [かずぞう@ホラーゲーム作家. 企業に提案し承認された実際の企画書ぜんぶ見せます！ゲーム企画書の作り方解説](https://note.com/kazzow/n/n75b29fbd0efd)
+- [Unityユースクリエイターカップ2021 本選出場作品トレイラー](https://youtu.be/RII1M4hqrmU)
 
 ## 予定
+- 企画、仕様の検討、作成、相談
+  - [作業方針メモ](https://docs.google.com/document/d/1SEGgOVTdS_9bh5WjrdJXg8IWGLDNlWRpL6IR9PW9xm8/)
+  - [SuperUnitychanSisters仕様](https://docs.google.com/document/d/1PKAZUuYLgpLZ4BFl2VmitCRu2PnwRKK85KOoJ8MjYtE/)
+  - Cluster 乗り物をいじる
+    - Cubeなどでは、両Frictionを小さい値にしたPhysics Materialを作成してアタッチしないと動きにくい
+
+# 7回目(12/1)
+
+## 話題
+- [かずぞう@ホラーゲーム作家. 企業に提案し承認された実際の企画書ぜんぶ見せます！ゲーム企画書の作り方解説](https://note.com/kazzow/n/n75b29fbd0efd)
+
+## 内容
 - 企画、仕様の検討、作成、相談
   - [作業方針メモ](https://docs.google.com/document/d/1SEGgOVTdS_9bh5WjrdJXg8IWGLDNlWRpL6IR9PW9xm8/)
   - [SuperUnitychanSisters仕様](https://docs.google.com/document/d/1PKAZUuYLgpLZ4BFl2VmitCRu2PnwRKK85KOoJ8MjYtE/)
