@@ -34,6 +34,7 @@
 
 ## 話題
 - [Unityユースクリエイターカップ2021 本選出場作品トレイラー](https://youtu.be/RII1M4hqrmU)
+- [銀座Unityもくもく会](https://weekend-unity.connpass.com/event/232906/)
 
 ## 予定
 - 企画、仕様の検討、作成、相談
