@@ -42,6 +42,9 @@
   - [SuperUnitychanSisters仕様](https://docs.google.com/document/d/1PKAZUuYLgpLZ4BFl2VmitCRu2PnwRKK85KOoJ8MjYtE/)
   - Cluster 乗り物をいじる
     - Cubeなどでは、両Frictionを小さい値にしたPhysics Materialを作成してアタッチしないと動きにくい
+- Webページまとめ
+  - 未提出のデータの確認
+  - ページ作成
 
 # 7回目(12/1)
 
