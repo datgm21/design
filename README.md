@@ -37,14 +37,21 @@
 - [銀座Unityもくもく会](https://weekend-unity.connpass.com/event/232906/)
 
 ## 予定
+- Webページとりまとめ
+  - Barrage
+    - タイトル画面で[ESC]キーで終了
+    - インストカードの「敬称略」は不要
+  - Super Unitychan Sisters
+    - ファイルアイコン
+    - Player SettingsのProduct Nameを設定
+    - タイトル画面で[ESC]キーで終了
+    - ゲーム中、[ESC]キーでタイトルに戻す
+  - ページ作成
 - 企画、仕様の検討、作成、相談
   - [作業方針メモ](https://docs.google.com/document/d/1SEGgOVTdS_9bh5WjrdJXg8IWGLDNlWRpL6IR9PW9xm8/)
   - [SuperUnitychanSisters仕様](https://docs.google.com/document/d/1PKAZUuYLgpLZ4BFl2VmitCRu2PnwRKK85KOoJ8MjYtE/)
   - Cluster 乗り物をいじる
     - Cubeなどでは、両Frictionを小さい値にしたPhysics Materialを作成してアタッチしないと動きにくい
-- Webページまとめ
-  - 未提出のデータの確認
-  - ページ作成
 
 # 7回目(12/1)
 
