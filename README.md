@@ -30,7 +30,7 @@
 
 [後期の座席](https://docs.google.com/spreadsheets/d/1KAVeA-KRZoyx0lwaYfgh95r0BmG8m7EYxKE8nIAkVJk/)
 
-[Webページ参考](https://datgm20.github.io/works/)
+[作品ページ](https://datgm21.github.io/works/)
 
 ## 話題
 - [Unityユースクリエイターカップ2021 本選出場作品トレイラー](https://youtu.be/RII1M4hqrmU)
