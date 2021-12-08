@@ -50,7 +50,7 @@
 - 企画、仕様の検討、作成、相談
   - [作業方針メモ](https://docs.google.com/document/d/1SEGgOVTdS_9bh5WjrdJXg8IWGLDNlWRpL6IR9PW9xm8/)
   - [SuperUnitychanSisters仕様](https://docs.google.com/document/d/1PKAZUuYLgpLZ4BFl2VmitCRu2PnwRKK85KOoJ8MjYtE/)
-  - [弾幕をhttps://github.com/datgm21/design/wiki/%E5%BC%BE%E5%B9%95%E3%82%92%E8%A1%A8%E7%8F%BE%E3%81%99%E3%82%8B
+  - [弾幕を表現する](https://github.com/datgm21/design/wiki/%E5%BC%BE%E5%B9%95%E3%82%92%E8%A1%A8%E7%8F%BE%E3%81%99%E3%82%8B)
   - Cluster 乗り物をいじる
     - Cubeなどでは、両Frictionを小さい値にしたPhysics Materialを作成してアタッチしないと動きにくい
 
