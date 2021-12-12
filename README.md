@@ -26,17 +26,47 @@
   - 静止画なら Windowsキー + Shift + S キーで範囲を指定した方が楽
 - [Unityゲーム開発者ギルド](https://unity-game-dev-guild.github.io/)
 
-# 8回目(12/8)
+# 9回目(12/15)
 
 [後期の座席](https://docs.google.com/spreadsheets/d/1KAVeA-KRZoyx0lwaYfgh95r0BmG8m7EYxKE8nIAkVJk/)
 
 [作品ページ](https://datgm21.github.io/works/)
 
+## 交流会について
+本日の5時限目に仙台校とのオンライン交流会の説明予定とのこと。現在のプロジェクト、あるいは、DATフェスタ版のプロジェクトの実行ファイルを整理してビルドしたものを提出する。
+
+交流会では背伸びは不要。以下について、素直な現状を報告する。
+
+- 作品の狙い、操作方法、ルール
+- 開発と展示を終えて感じた、足りていないところや改善したいところを挙げる
+- 挙げたことを実現するために、現在取り組んでいること、今後取り組みたいことを述べる
+
+## 予定
+- とりまとめのためのヒアリング
+  - Barrage
+    - タイトル画面で[ESC]キーで終了
+    - インストカードの「敬称略」は不要
+  - Super Unitychan Sisters
+    - ファイルアイコン
+    - Player SettingsのProduct Nameを設定
+    - タイトル画面で[ESC]キーで終了
+    - ゲーム中、[ESC]キーでタイトルに戻す
+- 企画、仕様の検討、作成、相談
+  - [作業方針メモ](https://docs.google.com/document/d/1SEGgOVTdS_9bh5WjrdJXg8IWGLDNlWRpL6IR9PW9xm8/)
+  - [SuperUnitychanSisters仕様](https://docs.google.com/document/d/1PKAZUuYLgpLZ4BFl2VmitCRu2PnwRKK85KOoJ8MjYtE/)
+  - [弾幕を表現する](https://github.com/datgm21/design/wiki/%E5%BC%BE%E5%B9%95%E3%82%92%E8%A1%A8%E7%8F%BE%E3%81%99%E3%82%8B)
+  - Cluster 乗り物をいじる
+    - Cubeなどでは、両Frictionを小さい値にしたPhysics Materialを作成してアタッチしないと動きにくい
+
+
+# 8回目(12/8)
+
+
 ## 話題
 - [Unityユースクリエイターカップ2021 本選出場作品トレイラー](https://youtu.be/RII1M4hqrmU)
 - [銀座Unityもくもく会](https://weekend-unity.connpass.com/event/232906/)
 
-## 予定
+## 内容
 - Webページとりまとめ
   - Barrage
     - タイトル画面で[ESC]キーで終了
