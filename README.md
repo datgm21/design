@@ -46,6 +46,9 @@
 - 挙げたことを実現するために、現在取り組んでいること、今後取り組みたいことを述べる
 
 ## 予定
+- BarrageとSuper Unitychan SistersはREADME.txtを作成する
+  - [手引き](https://docs.google.com/document/d/13AKqKXnycFbwY-VT-Btu9nifEalxnK-jiPCm2JsvGIs/edit#heading=h.52ygsdgin1n)
+  - [例](https://raw.githubusercontent.com/datgm20/OpenYoketoru2020/main/README.txt)
 - とりまとめのためのヒアリング
   - Barrage
     - タイトル画面で[ESC]キーで終了
