@@ -48,7 +48,7 @@
 ## 予定
 - BarrageとSuper Unitychan SistersはREADME.txtを作成して、`Z:\student\gp1\DATフェスタ`内の作品名フォルダー内へ提出
   - [手引き](https://docs.google.com/document/d/13AKqKXnycFbwY-VT-Btu9nifEalxnK-jiPCm2JsvGIs/edit#heading=h.52ygsdgin1n)
-  - [例](https://raw.githubusercontent.com/datgm20/OpenYoketoru2020/main/README.txt)
+  - [例](https://github.com/datgm21/design/wiki/README.txt%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB)
 - とりまとめのためのヒアリング
   - Barrage
     - [x] タイトル画面で[ESC]キーで終了
