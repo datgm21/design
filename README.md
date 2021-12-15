@@ -46,18 +46,18 @@
 - 挙げたことを実現するために、現在取り組んでいること、今後取り組みたいことを述べる
 
 ## 予定
-- BarrageとSuper Unitychan SistersはREADME.txtを作成する
+- BarrageとSuper Unitychan SistersはREADME.txtを作成して、`Z:\student\gp1\DATフェスタ`内の作品名フォルダー内へ提出
   - [手引き](https://docs.google.com/document/d/13AKqKXnycFbwY-VT-Btu9nifEalxnK-jiPCm2JsvGIs/edit#heading=h.52ygsdgin1n)
   - [例](https://raw.githubusercontent.com/datgm20/OpenYoketoru2020/main/README.txt)
 - とりまとめのためのヒアリング
   - Barrage
-    - タイトル画面で[ESC]キーで終了
-    - インストカードの「敬称略」は不要
+    - [x] タイトル画面で[ESC]キーで終了
+    - [x] インストカードの「敬称略」は不要
   - Super Unitychan Sisters
-    - ファイルアイコン
-    - Player SettingsのProduct Nameを設定
-    - タイトル画面で[ESC]キーで終了
-    - ゲーム中、[ESC]キーでタイトルに戻す
+    - [ ] ファイルアイコン
+    - [ ] Player SettingsのProduct Nameを設定
+    - [ ] タイトル画面で[ESC]キーで終了
+    - [ ] ゲーム中、[ESC]キーでタイトルに戻す
 - 企画、仕様の検討、作成、相談
   - [作業方針メモ](https://docs.google.com/document/d/1SEGgOVTdS_9bh5WjrdJXg8IWGLDNlWRpL6IR9PW9xm8/)
   - [SuperUnitychanSisters仕様](https://docs.google.com/document/d/1PKAZUuYLgpLZ4BFl2VmitCRu2PnwRKK85KOoJ8MjYtE/)
