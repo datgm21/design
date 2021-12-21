@@ -35,6 +35,7 @@
 ## 話題
 - [1週間ゲームジャム](https://unityroom.com/unity1weeks)開催中
 - [ゲームクリエイターズギルド公式ch](https://www.youtube.com/channel/UCwkc3XcdjoMxO6vROG8LKYQ/videos)
+- [CyberAgentGameEntertainment/NovaShader](https://github.com/CyberAgentGameEntertainment/NovaShader)
 
 ## 正月課題(ゲームデザイン実習とゲームプログラミング共通)
 - 個人作品の企画と制作。Unityかclusterのいずれか
