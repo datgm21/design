@@ -26,6 +26,9 @@
   - 静止画なら Windowsキー + Shift + S キーで範囲を指定した方が楽
 - [Unityゲーム開発者ギルド](https://unity-game-dev-guild.github.io/)
 
+## その他
+- CamScanner [iOS](https://apps.apple.com/jp/app/camscanner-%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3-pdf-%E5%A4%89%E6%8F%9B-%E7%BF%BB%E8%A8%B3-%E3%82%AB%E3%83%A1%E3%83%A9/id388627783) / [Android](https://play.google.com/store/apps/details?id=com.intsig.camscanner&hl=ja&gl=US)
+
 # 10回目(12/22)
 
 [後期の座席](https://docs.google.com/spreadsheets/d/1KAVeA-KRZoyx0lwaYfgh95r0BmG8m7EYxKE8nIAkVJk/)
