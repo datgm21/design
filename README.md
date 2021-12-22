@@ -34,7 +34,7 @@
 
 ## 話題
 - [1週間ゲームジャム](https://unityroom.com/unity1weeks)開催中
-  - [ツイート](https://www.google.com/search?q=twitter+%23unity1week&oq=twitter+%23unity1week&aqs=chrome..69i57.3027j0j1&sourceid=chrome&ie=UTF-8)
+  - [ツイート](https://twitter.com/hashtag/unity1week)
 - [ゲームクリエイターズギルド公式ch](https://www.youtube.com/channel/UCwkc3XcdjoMxO6vROG8LKYQ/videos)
 - [CyberAgentGameEntertainment/NovaShader](https://github.com/CyberAgentGameEntertainment/NovaShader)
 
