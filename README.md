@@ -37,6 +37,8 @@
 - [1週間ゲームジャム](https://unityroom.com/unity1weeks)
 
 ## 予定
+- 企画概要書に公開先のリンクを記入する
+- 企画概要書の共有リンクを[こちら](https://docs.google.com/forms/d/e/1FAIpQLScc9scLVvYA8nCuFTSHURvQtOBTEZL2bilB6GWgb78jMYkgFA/viewform?usp=sf_link)から送信
 - 正月課題の発表に向けて仕上げ
 
 ## 正月課題(ゲームデザイン実習とゲームプログラミング共通)
