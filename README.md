@@ -29,9 +29,33 @@
 ## その他
 - 資料撮影アプリ CamScanner [iOS](https://apps.apple.com/jp/app/camscanner-%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3-pdf-%E5%A4%89%E6%8F%9B-%E7%BF%BB%E8%A8%B3-%E3%82%AB%E3%83%A1%E3%83%A9/id388627783) / [Android](https://play.google.com/store/apps/details?id=com.intsig.camscanner&hl=ja&gl=US)
 
-# 10回目(12/22)
+# 11回目(1/5)
 
 [後期の座席](https://docs.google.com/spreadsheets/d/1KAVeA-KRZoyx0lwaYfgh95r0BmG8m7EYxKE8nIAkVJk/)
+
+## 話題
+- [1週間ゲームジャム](https://unityroom.com/unity1weeks)
+
+## 予定
+- 正月課題の発表に向けて仕上げ
+
+## 正月課題(ゲームデザイン実習とゲームプログラミング共通)
+- 個人作品の企画と制作。Unityかclusterのいずれか
+  - 1週間ゲームジャムでの公開を想定したミニゲームの企画、開発
+  - cluster用のミニワールドの企画、開発
+- 企画概要書。本講義や企画の講義で教わったことを活用して、以下についてGoogleドキュメントかスライドにまとめる
+  - Unity：ゲームタイトル、コアステートメント、サムネイル、操作方法、ルール、遊びどころ、自分向けのプロジェクトの達成目的、制作結果のまとめ
+  - cluster：ワールドタイトル、コアステートメント、サムネイル、ワールドの楽しみ方と工夫した仕掛け、自分向けのプロジェクトの達成目的、制作結果のまとめ
+- 締め切りと発表
+  - 1/6(木)に企画書と作品の発表
+  - unityroomやclusterに限定公開でよいのでアップロード
+
+## 予定
+- 企画書や作品の仕上げ、未完成部分の作成、質疑応答
+  - [企画概要書例](https://hilarious-tenor-ff6.notion.site/050eaa33f7d248cfadb96436de748e70)
+
+
+# 10回目(12/22)
 
 [作品ページ](https://datgm21.github.io/works/)
 
@@ -54,7 +78,7 @@
   - 1/5(水)は仕上げの日にするので、どうしてもできなかったところはそこで質問。あるいは、slackで質問
   - 自宅からアップロードできないような場合も同様
 
-## 予定
+## 内容
 - 正月課題、および、1週間ゲームジャムに取り組む
 - Super Unitychan Sistersのチェック
   - [ ] 曲のループの切れ目を調整(audacityはインストール済み)
