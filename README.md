@@ -35,6 +35,7 @@
 
 ## 話題
 - [1週間ゲームジャム](https://unityroom.com/unity1weeks)
+- [unity1week online共有会 #7](https://meetup.unity3d.jp/jp/events/1338) 1/22 21:00より
 - [ゲームクリエイター甲子園2022](https://twitter.com/GC_koushien/status/1478318998450470913)は4月から
 
 ## 予定
