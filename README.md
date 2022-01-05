@@ -42,6 +42,7 @@
 - 企画概要書に公開先のリンクを記入する
 - 企画概要書の共有リンクを[こちら](https://docs.google.com/forms/d/e/1FAIpQLScc9scLVvYA8nCuFTSHURvQtOBTEZL2bilB6GWgb78jMYkgFA/viewform?usp=sf_link)から送信
 - 正月課題の発表に向けて仕上げ
+  - [企画概要書例](https://hilarious-tenor-ff6.notion.site/050eaa33f7d248cfadb96436de748e70)
 
 ## 正月課題(ゲームデザイン実習とゲームプログラミング共通)
 - 個人作品の企画と制作。Unityかclusterのいずれか
@@ -53,10 +54,6 @@
 - 締め切りと発表
   - 1/6(木)に企画書と作品の発表
   - unityroomやclusterに限定公開でよいのでアップロード
-
-## 予定
-- 企画書や作品の仕上げ、未完成部分の作成、質疑応答
-  - [企画概要書例](https://hilarious-tenor-ff6.notion.site/050eaa33f7d248cfadb96436de748e70)
 
 ## 次回予定
 - 制作の振り返り
