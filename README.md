@@ -35,6 +35,7 @@
 
 ## 話題
 - [1週間ゲームジャム](https://unityroom.com/unity1weeks)
+- [ゲームクリエイター甲子園2022](https://twitter.com/GC_koushien/status/1478318998450470913)は4月から
 
 ## 予定
 - 企画概要書に公開先のリンクを記入する
