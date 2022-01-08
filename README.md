@@ -29,6 +29,15 @@
 ## その他
 - 資料撮影アプリ CamScanner [iOS](https://apps.apple.com/jp/app/camscanner-%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3-pdf-%E5%A4%89%E6%8F%9B-%E7%BF%BB%E8%A8%B3-%E3%82%AB%E3%83%A1%E3%83%A9/id388627783) / [Android](https://play.google.com/store/apps/details?id=com.intsig.camscanner&hl=ja&gl=US)
 
+# 12回目(1/12)
+
+## 話題
+### 1週間ゲームジャムふり返り
+- シンプルだけど面白い例
+  - [エクストリームただし](https://unityroom.com/games/extreme-tadashi)
+  - [ハイタッチマニア | せをはやみ](https://unityroom.com/games/highfivemania)
+  - [ねこりクリッカー](https://unityroom.com/games/clicker)
+
 # 11回目(1/5)
 
 [後期の座席](https://docs.google.com/spreadsheets/d/1KAVeA-KRZoyx0lwaYfgh95r0BmG8m7EYxKE8nIAkVJk/)
