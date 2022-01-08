@@ -33,7 +33,7 @@
 
 ## 話題
 ### 1週間ゲームジャムふり返り
-- シンプルだけど面白い例
+- シンプルで面白い例
   - [エクストリームただし](https://unityroom.com/games/extreme-tadashi)
   - [ハイタッチマニア | せをはやみ](https://unityroom.com/games/highfivemania)
   - [ねこりクリッカー](https://unityroom.com/games/clicker)
