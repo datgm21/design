@@ -38,6 +38,10 @@
   - [ハイタッチマニア | せをはやみ](https://unityroom.com/games/highfivemania)
   - [ねこりクリッカー](https://unityroom.com/games/clicker)
 
+### 予定
+- ポートフォリオ作成
+
+
 # 11回目(1/5)
 
 [後期の座席](https://docs.google.com/spreadsheets/d/1KAVeA-KRZoyx0lwaYfgh95r0BmG8m7EYxKE8nIAkVJk/)
