@@ -39,7 +39,7 @@
   - [ねこりクリッカー](https://unityroom.com/games/clicker)
 
 ### 予定
-- ポートフォリオ作成
+- [ポートフォリオ作成](https://tanakaedu.github.io/portfolio-with-markdown)
 
 
 # 11回目(1/5)
