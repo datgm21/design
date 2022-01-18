@@ -29,6 +29,13 @@
 ## その他
 - 資料撮影アプリ CamScanner [iOS](https://apps.apple.com/jp/app/camscanner-%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3-pdf-%E5%A4%89%E6%8F%9B-%E7%BF%BB%E8%A8%B3-%E3%82%AB%E3%83%A1%E3%83%A9/id388627783) / [Android](https://play.google.com/store/apps/details?id=com.intsig.camscanner&hl=ja&gl=US)
 
+# 13回目(1/19)
+## 予定
+- ポートフォリオの確認
+  - 今後のテーマに、卒業制作や個人制作で今後挑戦したい作品のジャンルや、使ってみたい技術を記載
+- 2時間ゲームジャムの準備
+  - 正月課題の改造でよい
+
 # 12回目(1/12)
 
 ## 話題
@@ -38,7 +45,7 @@
   - [ハイタッチマニア | せをはやみ](https://unityroom.com/games/highfivemania)
   - [ねこりクリッカー](https://unityroom.com/games/clicker)
 
-### 予定
+### 内容
 - [ポートフォリオ作成](https://tanakaedu.github.io/portfolio-with-markdown)
 
 
