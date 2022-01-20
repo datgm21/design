@@ -40,7 +40,6 @@
     - [Gorogoa](https://store.steampowered.com/app/557600/Gorogoa/?l=japanese)
     - [観測者は正方形の窓からネコをながめる](https://unityroom.com/games/u1w05tob)
     - [不正勇者](https://unityroom.com/games/cheathero)
-    - [Connect](https://unityroom.com/games/connect-nodes)
     - [モチ上ガール](https://sites.google.com/view/motchagirl)
   - 操作やルールはシンプルに。応用は幅広く
   - ディテールを細かくするとグラフィックのコストが上がる上に動かしにくくなる。ローポリやボクセルを活かしてバリエーションを増やしやすくプログラムで動きを付けられるようにする
