@@ -29,8 +29,26 @@
 ## その他
 - 資料撮影アプリ CamScanner [iOS](https://apps.apple.com/jp/app/camscanner-%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3-pdf-%E5%A4%89%E6%8F%9B-%E7%BF%BB%E8%A8%B3-%E3%82%AB%E3%83%A1%E3%83%A9/id388627783) / [Android](https://play.google.com/store/apps/details?id=com.intsig.camscanner&hl=ja&gl=US)
 
-# 13回目(1/19)
+# 14回目(1/26)
 ## 予定
+- 2時間ゲームジャムの準備
+  - 正月課題の改造でよい
+- ゲームクリエイター甲子園などのコンテスト向け企画の検討
+  - 軸になる意外性を探す。操作、見た目、動き、ルールなど
+    - [Baba Is You](https://store.steampowered.com/app/736260/Baba_Is_You/?l=japanese)
+    - [Monument Valley](https://apps.apple.com/jp/app/monument-valley/id728293409)
+    - [Gorogoa](https://store.steampowered.com/app/557600/Gorogoa/?l=japanese)
+    - [観測者は正方形の窓からネコをながめる](https://unityroom.com/games/u1w05tob)
+    - [不正勇者](https://unityroom.com/games/cheathero)
+    - [Connect](https://unityroom.com/games/connect-nodes)
+    - [モチ上ガール](https://sites.google.com/view/motchagirl)
+  - 操作やルールはシンプルに。応用は幅広く
+  - ディテールを細かくするとグラフィックのコストが上がる上に動かしにくくなる。ローポリやボクセルを活かしてバリエーションを増やしやすくプログラムで動きを付けられるようにする
+  - 1つでよく、バランスが崩れてもよいので、他にはない新しいものを軸に加える
+  - よくあるそれっぽさは捨てる
+
+# 13回目(1/19)
+## 内容
 - ポートフォリオの確認
   - 今後のテーマに、卒業制作や個人制作で今後挑戦したい作品のジャンルや、使ってみたい技術を記載
   - 以下を確認できるようにする。
