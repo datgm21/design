@@ -44,7 +44,7 @@
     - [モチ上ガール](https://sites.google.com/view/motchagirl)
   - 操作やルールはシンプルに。応用は幅広く
   - ディテールを細かくするとグラフィックのコストが上がる上に動かしにくくなる。ローポリやボクセルを活かしてバリエーションを増やしやすくプログラムで動きを付けられるようにする
-  - 1つでよく、バランスが崩れてもよいので、他にはない新しいものを軸に加える
+  - バランスが崩れてもよいので他にはない新しいものを1つ軸に加える
   - よくあるそれっぽさでまとめない
   - プレイヤー体験について
     - [Yutaka Kinjo. エンディングまで連れて行くプレイ体験](https://speakerdeck.com/yutakakinjyo/endeingumadelian-retexing-kupureiti-yan-unity-1-week-gong-you-hui-number-7)
