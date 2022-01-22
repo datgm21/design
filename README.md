@@ -43,7 +43,7 @@
     - [不正勇者](https://unityroom.com/games/cheathero)
     - [モチ上ガール](https://sites.google.com/view/motchagirl)
   - 操作やルールはシンプルに。応用は幅広く
-  - ディテールを細かくするとグラフィックのコストが上がる上に動かしにくくなる。ローポリやボクセルを活かしてバリエーションを増やしやすくプログラムで動きを付けられるようにする
+  - 表現力が最も高くできるディテールを検討する [A Short Hike](https://store.steampowered.com/app/1055540/A_Short_Hike/?l=japanese)
   - バランスが崩れてもよいので他にはない新しいものを1つ軸に加える
   - よくあるそれっぽさでまとめない
   - プレイヤー体験について
