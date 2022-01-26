@@ -48,6 +48,8 @@
   - よくあるそれっぽさでまとめない
   - プレイヤー体験について
     - [Yutaka Kinjo. エンディングまで連れて行くプレイ体験](https://speakerdeck.com/yutakakinjyo/endeingumadelian-retexing-kupureiti-yan-unity-1-week-gong-you-hui-number-7)
+- 仙台校の試遊
+  - `Z:\student\卒業制作\仙台校`
 
 # 13回目(1/19)
 ## 内容
