@@ -48,6 +48,9 @@
   - よくあるそれっぽさでまとめない
   - プレイヤー体験について
     - [Yutaka Kinjo. エンディングまで連れて行くプレイ体験](https://speakerdeck.com/yutakakinjyo/endeingumadelian-retexing-kupureiti-yan-unity-1-week-gong-you-hui-number-7)
+  - 参考図書
+    - [結城浩. プログラマの数学 第2版](https://www.sbcr.jp/product/4797395457/)
+    - [米田優峻. 問題解決のための「アルゴリズム×数学」が基礎からしっかり身につく本](https://direct.gihyo.jp/view/item/000000002544)
 - 仙台校の試遊
   - `Z:\student\卒業制作\仙台校`
 - 最終発表の準備
