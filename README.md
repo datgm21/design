@@ -50,6 +50,11 @@
     - [Yutaka Kinjo. エンディングまで連れて行くプレイ体験](https://speakerdeck.com/yutakakinjyo/endeingumadelian-retexing-kupureiti-yan-unity-1-week-gong-you-hui-number-7)
 - 仙台校の試遊
   - `Z:\student\卒業制作\仙台校`
+- 最終発表の準備
+  - 最終日　10:00から発表開始
+  - 一人5分程度
+  - 興味あるテーマ、あるいは、コンテスト用の企画案に関連して、調べたこと、考えたこと、試作したものなどについて発表
+  - ポートフォリオを見ながら発表できるように、資料や実行ファイルへのリンクはポートフォリオに用意しておく
 
 # 13回目(1/19)
 ## 内容
