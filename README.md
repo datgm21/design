@@ -36,6 +36,8 @@
   - GCG@ゲームクリエイター就活情報！. [設計について](https://twitter.com/game4jobhunter/status/1488377568923426818) / [時期](https://twitter.com/game4jobhunter/status/1488407540069449730)
 - [A-Frame](https://developer.mozilla.org/ja/docs/Games/Techniques/3D_on_the_web/Building_up_a_basic_demo_with_A-Frame)
   - [ダックビル. tweet](https://twitter.com/DuckbillStudio/status/1487404200434626560)
+- 「操作やルールはシンプルに。応用は幅広く」についての参考
+  - [IGN Japan. 『Pokémon LEGENDS アルセウス』と『ゼルダの伝説 ブレス オブ ザ ワイルド』に共通するデザイン哲学について](https://jp.ign.com/pokemon-legends-arceus/57471/opinion/pokmon-legends#disqus_thread)
 
 ## 予定
 - 最終発表会の準備
