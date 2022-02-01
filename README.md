@@ -32,6 +32,8 @@
 # 15回目(2/2)
 ## 話題
 - [日本ゲーム大賞2022. アマチュア部門](https://awards.cesa.or.jp/amateur/index.html) 3⽉1⽇(⽕)応募受付開始〜5⽉31⽇(⽕)応募締切
+- ポートフォリオ関連
+  - GCG@ゲームクリエイター就活情報！. [設計について](https://twitter.com/game4jobhunter/status/1488377568923426818) / [時期](https://twitter.com/game4jobhunter/status/1488407540069449730)
 - [A-Frame](https://developer.mozilla.org/ja/docs/Games/Techniques/3D_on_the_web/Building_up_a_basic_demo_with_A-Frame)
   - [ダックビル. tweet](https://twitter.com/DuckbillStudio/status/1487404200434626560)
 
