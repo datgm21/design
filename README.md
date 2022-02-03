@@ -1,7 +1,7 @@
 # 2021年度生 ゲームデザイン実習
 - [シラバス](https://drive.google.com/file/d/1dIiRItttkABdvisRGQuZwYjKLJt8mgSJ/)
 - [後期の座席](https://docs.google.com/spreadsheets/d/1KAVeA-KRZoyx0lwaYfgh95r0BmG8m7EYxKE8nIAkVJk/)
-- [質問](https://meet.google.com/jdv-ebbs-bjp)
+- [質問](https://meet.google.com/rnr-bpcd-fkx)
 - [昨年度の講義資料](https://github.com/datgm20/design)
 - [Slack](https://datgm21.slack.com)
 - [講義日程](https://github.com/datgm21/design/blob/main/wed.md)
